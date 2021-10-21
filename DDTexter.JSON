@@ -4,12 +4,12 @@
         [
             
             "totalt olika:",
-            "326",
+            "330",
             
             "basic1: 26 (-1)",
-            "basic2: 57 (-2)",
+            "basic2: 58 (-2)",
             "basic3: 2",
-            "basic4: 30 (-1)",
+            "basic4: 32 (-1)",
             "basicExtra: 7 (+2)",
             
             "peklek1: 14",
@@ -122,11 +122,13 @@
             
             "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
             
-            "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+            "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)"
             
-            "p1, ta några klunkar vatten, det lär du behöva😉",
+            "p1, ta några klunkar vatten, det lär du behöva😉"
             
             "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+            
+            "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
             
             "Drack du något senaste rundan? Drick isåfall lika mycket igen",
             
@@ -247,6 +249,10 @@
     "basic4":
 
         [
+            
+            "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",      "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",
+            
+            "p1, singla slant! blir det krona tar du 3 klunkar men om det blir klave tar du en shot⁉️ Tryck för att få fram en slant",
             
             "Alla tar 3 klunkar förutom p1, du får ta 5😈",         "Alla tar 3 klunkar förutom p2, du får ta 5😈",
             
