@@ -1,4 +1,51 @@
 {
+"antal":
+
+        [
+            
+            "totalt olika:",
+            "326",
+            
+            "basic1: 26 (-1)",
+            "basic2: 57 (-2)",
+            "basic3: 2",
+            "basic4: 30 (-1)",
+            "basicExtra: 7 (+2)",
+            
+            "peklek1: 14",
+            "peklek2: 18",
+            "peklek3: 10",
+            "peklek4: 1",
+            
+            "JHA1: 15",
+            "JHA2: 36",
+            "JHA3: 17",
+            "JHA4: 4",
+            
+            "tema1: 12",
+            "tema2: 6",
+            "tema3: 3",
+            "tema4: 0",
+           
+            "WYR1: 7",
+            "WYR2: 5",
+            "WYR3: 3",
+            "WYR4: 1",
+            
+            "dares1: 2",
+            "dares2: 11",
+            "dares3: 9",
+            "dares4: 2",
+            
+            "truths1: 7",
+            "truths2: 8",
+            "truths3: 14",
+            "truths4: 0",
+                
+        ],
+        
+        
+        
 "basic1":
 
         [
@@ -33,9 +80,23 @@
 
             "Alla yngre än p1 dricker en klunk👶",
             
+            "Alla med ett husdjur dricker😼",
+            
             "Alla tjejer dricker💁‍♀️",
                             
             "Alla killar dricker🙋‍♂️",
+            
+            "p1, ta ett glas vatten😉",
+            
+            "Alla med blå ögon dricker👀",
+            
+            "Alla med bruna ögon dricker👀",
+            
+            "Alla med gröna ögon dricker👀",
+            
+            "Alla med mörkt hår dricker👩🏻",
+            
+            "Alla med ljust hår dricker👩🏼",
 
             "Alla med armbågar på bordet dricker så många klunkar som det finns par med armbågar på bordet",
             
@@ -49,11 +110,27 @@
 
         [
             
-            "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+            "p1, personerna till höger och vänster om dig dricker",
             
-            "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+            "Ta så många klunkar som det är personer i rummet",
             
-            "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+            "Flytta era drinkar ett steg åt höger och smaka på den drink ni nu har i handen",
+            
+            "Flytta era drinkar ett steg åt vänster och smaka på den drink ni nu har i handen",
+            
+            "Alla tar 1 klunk förutom p1, du får ta 2😘",       "Alla tar 1 klunk förutom p2, du får ta 2😘",
+            
+            "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
+            
+            "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)"
+            
+            "p1, ta några klunkar vatten, det lär du behöva😉"
+            
+            "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+            
+            "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+            
+            "p1, välj en dryckeskompis! Ni ska båda dricka 3 klunkar🤝",
 
             "p1, grattis🥳 du får lov att smaka på p2s drink",
 
@@ -68,6 +145,8 @@
             "p1, visa oss din dolda talang🤩 har du ingen? då får du dricka 1 klunk och hoppas att du inte är lika tråkig nästa gång🥱",
 
             "Alla i rummet dricker💪",
+            
+            "Alla med tatuering dricker",
 
             "Dags att dricka för alla i rummet🙌",
 
@@ -117,17 +196,19 @@
 
             "Alla som dricker öl tar 3 klunkar🍻",
 
-            "Alla som dricker ur burk tar en klunk",
+            "Alla som dricker ur burk tar 1 klunk",
 
-            "Alla som dricker ur mugg tar en klunk🥤",
+            "Alla som dricker ur mugg tar 1 klunk🥤",
 
             "Alla ociviliserade människor som dricker ur mugg kan ta 1 klunk😒",
 
-            "Alla som dricker ur glas tar en klunk🧐",
+            "Alla som dricker ur glas tar 1 klunk🧐",
 
             "p1, köa en låt och spela den härnäst",
             
             "p1, dina nästa klunkar dubblas",
+            
+            "p1 och p2, gör en armkrok och drick 3 klunkar",
 
 
 
@@ -137,27 +218,15 @@
 
 
 
-            "p1, dela ut 2 klunkar😁",
+            "p1, dela ut 2 klunkar😁",      "p1, dela ut 2 klunkar😁",
 
-            "p1, dela ut 3 klunkar😆",
+            "p1, dela ut 3 klunkar😆",      "p1, dela ut 3 klunkar😆",
 
-            "p1, dela ut 4 klunkar😳",
+            "p1, dela ut 4 klunkar😳",      "p1, dela ut 4 klunkar😳",
 
-            "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",
+            "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",      "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",
 
-            "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",
-
-
-
-            "p1, dela ut 2 klunkar😁",
-
-            "p1, dela ut 3 klunkar😆",
-
-            "p1, dela ut 4 klunkar😳",
-
-            "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",
-
-            "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",
+            "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",         "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",
 
         ],
 
@@ -166,6 +235,10 @@
     "basic3":
 
         [
+            
+            "Alla dricker så många klunkar som personer de legat med",
+            
+            "Alla dricker en klunk för varje ex de har",
 
         ],
 
@@ -174,6 +247,14 @@
     "basic4":
 
         [
+            
+            "Alla tar 3 klunkar förutom p1, du får ta 5😈",         "Alla tar 3 klunkar förutom p2, du får ta 5😈",
+            
+            "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
+            
+            "p1, välj en dryckeskompis! Ni ska båda dricka 5 klunkar🤝",
+            
+            "p1, välj en dryckeskompis! Ni ska båda ta en shot tillsammans🤝",
             
             "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
             
@@ -198,6 +279,10 @@
             "De med mindre än halva drinken kvar klunkar resten🍻",
 
             "Sten, sax, påse mellan p1 och p2, förloraren tar en shot eller klunkar resten av sin drink",
+            
+            "p1 ser inte ut att vara igång än, drick 5 klunkar",
+            
+            "p1 och p2, gör en armkrok och drick 5 klunkar",
 
 
 
@@ -219,27 +304,14 @@
 
 
 
-            "p1, ta 4 klunkar",
+            "p1, ta 4 klunkar",         "p1, ta 4 klunkar",
 
-            "p1, ta 5 klunkar",
-
-
-
-            "p1, ta 4 klunkar",
-
-            "p1, ta 5 klunkar",
+            "p1, ta 5 klunkar",         "p1, ta 5 klunkar",
 
 
+            "p1, dela ut 6 klunkar😏",      "p1, dela ut 6 klunkar😏",
 
-            "p1, dela ut 6 klunkar😏",
-
-            "p1, dela ut 8 klunkar🤯",
-
-
-
-            "p1, dela ut 6 klunkar😏",
-
-            "p1, dela ut 8 klunkar🤯",
+            "p1, dela ut 8 klunkar🤯",      "p1, dela ut 8 klunkar🤯",
 
         ],
 
@@ -401,6 +473,12 @@
             "Vem har snyggast outfit?",
 
             "Vem är mest lättlurad?",
+            
+            "Vem kommer en dag att vara känd?",
+            
+            "Vem skulle bli bäst vloggare?",
+            
+            "Vem skulle kunna gå med i en sekt?",
 
         ],
 
@@ -431,6 +509,20 @@
             "Vem har bäst fester?",
 
             "Vem får flest matchningar på tinder?",
+            
+            "Vem blandar starkast groggar?",
+            
+            "Vem blandar svagast groggar?",
+            
+            "Vem gråter av disneyfilmer?",
+            
+            "Vem ljuger sämst?",
+            
+            "Vem är bäst på Beer Pong?",
+            
+            "Vem är sämst på Beer Pong?",
+            
+            "Vem skulle lyckas med att skapa en sekt?",
 
         ],
 
@@ -439,28 +531,6 @@
     "peklek3":
 
         [
-
-            "Vem har sjukaste kinken?",
-
-            "Vem skulle få flest följare på onlyfans?",
-
-            "Vem följer flest på onlyfans i hemlighet?",
-
-            "Vem Har legat med flest personer?",
-
-            "Vem hamnar i säng med någon annan ikväll?",
-
-            "Vem har haft flest könssjukdomar?",
-
-            "Vem gillar att ta den bakifrån?",
-
-            "Vem är snyggast i rummet?",
-
-            "Vem äger flest sexleksaker?",
-
-            "Vem skulle lättast få en trekant?",
-
-
 
             "Vem har sjukaste kinken?",
 
@@ -519,6 +589,16 @@
             "Jag har aldrig gett bort en present jag fått",
 
             "Jag har aldrig färgat håret",
+            
+            "Jag har aldrig Ringt 112",
+            
+            "Jag har aldrig svimmat",
+            
+            "Jag har aldrig varit med i tv",
+            
+            "Jag har aldrig ljugit för mina föräldrar om vart jag ska",
+            
+            "Jag har aldrig lagt upp en video på YouTube",
 
         ],
 
@@ -529,6 +609,10 @@
         [
 
             "Jag har aldrig krockat en bil",
+            
+            "Jag har aldrig somnat på en fest",
+            
+            "Jag har aldrig spenderat natten i en bil",
 
             "Jag har aldrig badat ute naken",
 
@@ -591,6 +675,10 @@
             "Jag har aldrig friendzonat någon",
 
             "Jag har aldrig blivit friendzonad",
+            
+            "Jag har aldrig rökt",
+            
+            "Jag har aldrig snusat",
 
         ],
 
@@ -631,40 +719,8 @@
             "Jag har aldrig haft en trekant",
 
             "Jag har aldrig legat i någon annans säng, som inte varit med i akten",
-
-
-
-            "Jag har aldrig haft en könssjukdom",
-
-            "Jag har aldrig haft sex utomhus",
-
-            "Jag har aldrig fejkat en orgasm",
-
-            "Jag har aldrig tagit någons oskuld",
-
-            "Jag har aldrig legat med en klasskompis/kollega",
-
-            "Jag har aldrig legat med någon yngre än mig",
-
-            "Jag har aldrig legat med någon äldre än mig",
-
-            "Jag har aldrig legat med någon jag skäms för",
-
-            "Jag har aldrig legat med flera på en kväll",
-
-            "Jag har aldrig gått ett år utan sex efter att jag tappade oskulden",
-
-            "Jag har aldrig haft sex med skorna på",
-
-            "Jag har aldrig haft analsex",
-
-            "Jag har aldrig betalt någon på onlyfans",
-
-            "Jag har aldrig använt en sexleksak själv eller med någon annan",
-
-            "Jag har aldrig haft en trekant",
-
-            "Jag har aldrig legat i någon annans säng, som inte varit med i akten",
+            
+            "Jag har aldrig haft sex i en bil",
 
         ],
 
@@ -694,15 +750,11 @@
 
             "Huvudstäder",
 
-            "klädmärken",
-
             "Frukter",
 
             "Svenska städer",
 
             "Resturantkedjor",
-
-            "Musikgenrer",
 
             "Maträtter på rbokstav",
 
@@ -727,6 +779,10 @@
         [
 
             "Alkoholsorter",
+            
+            "klädmärken",
+            
+            "Musikgenrer",
 
             "Drinkar",
 
@@ -741,14 +797,6 @@
     "tema3":
 
         [
-
-            "Sexställningar",
-
-            "Porrskådisar",
-
-            "Könssjukdomar",
-
-
 
             "Sexställningar",
 
@@ -818,14 +866,6 @@
 
             "Dominera \n\n eller \n\n Dominerad",
 
-
-
-            "Inte kunna ligga längre än 5 min \n\n eller \n\n inte kunna ligga kortare än 1,5 h",
-
-            "Lägga ut på onlyfans \n\n eller \n\n följa någon på onlyfans",
-
-            "Dominera \n\n eller \n\n Dominerad",
-
         ],
 
 
@@ -855,6 +895,8 @@
     "dares2":
 
         [
+            
+            "Byt tröja med personen till höger",
 
             "Läs ditt senaste sms för de andra",
 
@@ -869,6 +911,12 @@
             "Krama personen till höger",
 
             "Ge ifrån dig ett stön",
+            
+            "Visa oss din Tinder-profil om du har någon",
+            
+            "Visa oss din äldsta selfie",
+            
+            "Låt alla i rummet signera din arm",
 
         ],
 
@@ -891,22 +939,10 @@
             "Visa oss hur man twerkar",
 
             "Sitt i knät på personen till höger under nästa runda",
-
-
-
-            "Kyss den snyggaste personen i rummet på kinden",
-
-            "Visa oss en strip tease",
-
-            "Viska det sexigaste du kan komma på i örat till personen till höger",
-
-            "Ta av dig ett klädesplagg",
-
-            "Demonstrera din mest exotiska sexställning med personen till höger",
-
-            "Visa oss hur man twerkar",
-
-            "Sitt i knät på personen till höger under nästa runda",
+            
+            "Blunda och gissa kroppsdelen som någon låter dig röra",
+            
+            "Ge personen till höger ett sugmärke",
 
         ],
 
@@ -917,6 +953,8 @@
         [
 
             "Klunka din drink",
+            
+            "Shotgunna något",
 
         ],
 
@@ -937,6 +975,8 @@
             "Vilken är bästa filmen du sett?",
 
             "Vad är din största rädsla?",
+            
+            "Vem i rummet skulle du ta med dig till en öde ö?",
 
         ],
 
@@ -958,7 +998,9 @@
 
             "Hur gammal var du när du fick din första partner?",
 
-            "Vem i rummet skulle du ta med dig till en öde ö?",
+            "Berätta om ett beroende du har",
+            
+            "Finns det några rykten om dig du vet om?",
 
         ],
 
@@ -967,36 +1009,6 @@
     "truths3":
 
         [
-
-            "Vem är snyggaste personen du legat med?",
-
-            "Vem var senaste personen du låg med?",
-
-            "När var senast du hade sex?",
-
-            "Vilken ålder förlorade du oskulden?",
-
-            "Skulle du kunna ligga med någon i rummet?",
-
-            "Hur många har du legat med?",
-
-            "Vem är snyggast i rummet?",
-
-            "Vad är din sjukaste kink?",
-
-            "Vem var senaste personen du låg med?",
-
-            "Äger du någon sexleksak?",
-
-            "Vad skulle du ge för betyg på ditt senaste ligg?",
-
-            "Vilka två kändisar skulle du vilja ligga med?",
-
-            "Har du någon gång haft en könssjukdom?",
-
-            "Ångrar du ditt senaste ligg?",
-
-
 
             "Vem är snyggaste personen du legat med?",
 
