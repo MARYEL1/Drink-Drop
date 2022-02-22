@@ -2,70 +2,75 @@
 "antal":
 
         [
-            
+
             "totalt olika:",
-            "330",
-            
+            "332",
+
             "basic1: 26 (-1)",
             "basic2: 58 (-2)",
             "basic3: 2",
             "basic4: 32 (-1)",
-            "basicExtra: 7 (+2)",
-            
+            "basicExtra: 9 (+2)",
+
             "peklek1: 14",
             "peklek2: 18",
             "peklek3: 10",
             "peklek4: 1",
-            
+
             "JHA1: 15",
             "JHA2: 36",
             "JHA3: 17",
             "JHA4: 4",
             
+            "quiz1: 0",
+            "quiz2: 0",
+            "quiz3: 0",
+            "quiz4: 0",
+
             "tema1: 12",
             "tema2: 6",
             "tema3: 3",
             "tema4: 0",
-           
+
             "WYR1: 7",
             "WYR2: 5",
             "WYR3: 3",
             "WYR4: 1",
-            
+
             "dares1: 2",
             "dares2: 11",
             "dares3: 9",
             "dares4: 2",
-            
+
             "truths1: 7",
             "truths2: 8",
             "truths3: 14",
             "truths4: 0",
-                
+
         ],
-        
-        
-        
+
+
+
 "version":
 
         [
 
           "0.2"
-          
+
         ],
         
         
         
- "uppdateraSettings":
+"uppdateraSettings":
 
         [
 
             "ja"
 
         ],
-        
-        
-        
+
+
+
 "basic1":
 
         [
@@ -99,27 +104,27 @@
             "Alla äldre än p1 dricker 1 klunk👨‍🦳",
 
             "Alla yngre än p1 dricker en klunk👶",
-            
+
             "Alla med ett husdjur dricker😼",
-            
+
             "Alla tjejer dricker💁‍♀️",
-                            
+
             "Alla killar dricker🙋‍♂️",
-            
+
             "p1, ta ett glas vatten😉",
-            
+
             "Alla med blå ögon dricker👀",
-            
+
             "Alla med bruna ögon dricker👀",
-            
+
             "Alla med gröna ögon dricker👀",
-            
+
             "Alla med mörkt hår dricker👩🏻",
-            
+
             "Alla med ljust hår dricker👩🏼",
 
             "Alla med armbågar på bordet dricker så många klunkar som det finns par med armbågar på bordet",
-            
+
             "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
 
         ],
@@ -129,29 +134,29 @@
     "basic2":
 
         [
-            
+
             "p1, personerna till höger och vänster om dig dricker",
-            
+
             "Ta så många klunkar som det är personer i rummet",
-            
+
             "Flytta era drinkar ett steg åt höger och smaka på den drink ni nu har i handen",
-            
+
             "Flytta era drinkar ett steg åt vänster och smaka på den drink ni nu har i handen",
-            
+
             "Alla tar 1 klunk förutom p1, du får ta 2😘",       "Alla tar 1 klunk förutom p2, du får ta 2😘",
-            
+
             "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
-            
+
             "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
-            
+
             "p1, ta några klunkar vatten, det lär du behöva😉",
-            
+
             "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
-            
+
             "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
-            
+
             "Drack du något senaste rundan? Drick isåfall lika mycket igen",
-            
+
             "p1, välj en dryckeskompis! Ni ska båda dricka 3 klunkar🤝",
 
             "p1, grattis🥳 du får lov att smaka på p2s drink",
@@ -167,7 +172,7 @@
             "p1, visa oss din dolda talang🤩 har du ingen? då får du dricka 1 klunk och hoppas att du inte är lika tråkig nästa gång🥱",
 
             "Alla i rummet dricker💪",
-            
+
             "Alla med tatuering dricker",
 
             "Dags att dricka för alla i rummet🙌",
@@ -227,9 +232,9 @@
             "Alla som dricker ur glas tar 1 klunk🧐",
 
             "p1, köa en låt och spela den härnäst",
-            
+
             "p1, dina nästa klunkar dubblas",
-            
+
             "p1 och p2, gör en armkrok och drick 3 klunkar",
 
 
@@ -257,9 +262,9 @@
     "basic3":
 
         [
-            
+
             "Alla dricker så många klunkar som personer de legat med",
-            
+
             "Alla dricker en klunk för varje ex de har",
 
         ],
@@ -269,23 +274,23 @@
     "basic4":
 
         [
-            
+
             "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",      "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",
-            
+
             "p1, singla slant! blir det krona tar du 3 klunkar men om det blir klave tar du en shot⁉️ Tryck för att få fram en slant",
-            
+
             "Alla tar 3 klunkar förutom p1, du får ta 5😈",         "Alla tar 3 klunkar förutom p2, du får ta 5😈",
-            
+
             "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
-            
+
             "p1, välj en dryckeskompis! Ni ska båda dricka 5 klunkar🤝",
-            
+
             "p1, välj en dryckeskompis! Ni ska båda ta en shot tillsammans🤝",
-            
+
             "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
-            
+
             "p1, dina nästa klunkar dubblas",
-            
+
             "p1, dina nästa klunkar dubblas",
 
             "p1 och p2 tar en shot var, finns inget att shotta tar ni 3 klunkar var och lär er vara mer förberedda nästa gång😤",
@@ -305,9 +310,9 @@
             "De med mindre än halva drinken kvar klunkar resten🍻",
 
             "Sten, sax, påse mellan p1 och p2, förloraren tar en shot eller klunkar resten av sin drink",
-            
+
             "p1 ser inte ut att vara igång än, drick 5 klunkar",
-            
+
             "p1 och p2, gör en armkrok och drick 5 klunkar",
 
 
@@ -392,6 +397,8 @@
             "Kör en \"jag har aldrig\", temat dras av nästa kort",
 
             "Kör en \"jag har aldrig\", temat dras av nästa kort",
+            
+            
 
             "Kör en \"jag har aldrig\", temat dras av nästa kort",
 
@@ -414,6 +421,58 @@
             "Kör en \"jag har aldrig\", temat dras av nästa kort",
 
         ],
+        
+        
+        
+        "basicQuiz":
+
+            [
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                "p1, dags för quiz! Svarar du fel får du ta 3 klunkar, svarar du rätt får du dela ut 3 klunkar🧐 Fråga och svar finns på nästa kort",
+
+            ],
+            
+            
+            
+            "basicQuiz4":
+
+                [
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                    "p1, dags för quiz! Svarar du fel får du ta 5 klunkar, svarar du rätt får du dela ut 5 klunkar🧐 Fråga och svar finns på nästa kort",
+
+                ],
 
 
 
@@ -426,7 +485,8 @@
             "Kör en temalek där den som tabbar sig tar 3 klunkar, p1 börjar med temat som dras av nästa kort",
 
             "Kör en temalek där den som tabbar sig tar 3 klunkar, p1 börjar med temat som dras av nästa kort",
-
+            
+            "Kör en temalek där den som tabbar sig tar 3 klunkar, p1 börjar med temat som dras av nästa kort",
 
         ],
 
@@ -440,6 +500,8 @@
 
             "Nästa kort är en \"would you rather\", alla räcker upp händerna och röstar, minoriteten tar 1 klunk",
 
+            "Nästa kort är en \"would you rather\", alla räcker upp händerna och röstar, minoriteten tar 1 klunk",
+            
             "Nästa kort är en \"would you rather\", alla räcker upp händerna och röstar, minoriteten tar 1 klunk",
 
         ],
@@ -455,6 +517,8 @@
             "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
 
             "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
+            
+            "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
 
         ],
 
@@ -468,6 +532,8 @@
 
             "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
 
+            "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
+            
             "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
 
         ],
@@ -499,11 +565,11 @@
             "Vem har snyggast outfit?",
 
             "Vem är mest lättlurad?",
-            
+
             "Vem kommer en dag att vara känd?",
-            
+
             "Vem skulle bli bäst vloggare?",
-            
+
             "Vem skulle kunna gå med i en sekt?",
 
         ],
@@ -535,19 +601,19 @@
             "Vem har bäst fester?",
 
             "Vem får flest matchningar på tinder?",
-            
+
             "Vem blandar starkast groggar?",
-            
+
             "Vem blandar svagast groggar?",
-            
+
             "Vem gråter av disneyfilmer?",
-            
+
             "Vem ljuger sämst?",
-            
+
             "Vem är bäst på Beer Pong?",
-            
+
             "Vem är sämst på Beer Pong?",
-            
+
             "Vem skulle lyckas med att skapa en sekt?",
 
         ],
@@ -615,15 +681,15 @@
             "Jag har aldrig gett bort en present jag fått",
 
             "Jag har aldrig färgat håret",
-            
+
             "Jag har aldrig Ringt 112",
-            
+
             "Jag har aldrig svimmat",
-            
+
             "Jag har aldrig varit med i tv",
-            
+
             "Jag har aldrig ljugit för mina föräldrar om vart jag ska",
-            
+
             "Jag har aldrig lagt upp en video på YouTube",
 
         ],
@@ -635,9 +701,9 @@
         [
 
             "Jag har aldrig krockat en bil",
-            
+
             "Jag har aldrig somnat på en fest",
-            
+
             "Jag har aldrig spenderat natten i en bil",
 
             "Jag har aldrig badat ute naken",
@@ -701,9 +767,9 @@
             "Jag har aldrig friendzonat någon",
 
             "Jag har aldrig blivit friendzonad",
-            
+
             "Jag har aldrig rökt",
-            
+
             "Jag har aldrig snusat",
 
         ],
@@ -745,7 +811,7 @@
             "Jag har aldrig haft en trekant",
 
             "Jag har aldrig legat i någon annans säng, som inte varit med i akten",
-            
+
             "Jag har aldrig haft sex i en bil",
 
         ],
@@ -765,6 +831,38 @@
             "Jag har aldrig spytt i ett fordon i rörelse",
 
         ],
+        
+        
+        
+        "quiz1":
+
+            [
+
+            ],
+
+
+
+        "quiz2":
+
+            [
+
+            ],
+
+
+
+        "quiz3":
+
+            [
+
+            ],
+
+
+
+        "quiz4":
+
+            [
+
+            ],
 
 
 
@@ -772,19 +870,15 @@
 
         [
 
-            "Bilmärken",
-
-            "Huvudstäder",
-
             "Frukter",
 
             "Svenska städer",
+            
+            "Stater i USA",
 
             "Resturantkedjor",
 
             "Maträtter på rbokstav",
-
-            "Länder på rbokstav",
 
             "Djur på rbokstav",
 
@@ -793,8 +887,6 @@
             "Namn på rbokstav",
 
             "Låtar på rbokstav",
-
-            "Artister på rbokstav",
 
         ],
 
@@ -805,16 +897,22 @@
         [
 
             "Alkoholsorter",
-            
+
             "klädmärken",
-            
+
             "Musikgenrer",
 
             "Drinkar",
 
             "Nummer 1 på olika språk",
+            
+            "Bilmärken",
 
-            "Stater i USA",
+            "Huvudstäder",
+            
+            "Länder på rbokstav",
+            
+            "Artister på rbokstav",
 
         ],
 
@@ -921,7 +1019,7 @@
     "dares2":
 
         [
-            
+
             "Byt tröja med personen till höger",
 
             "Läs ditt senaste sms för de andra",
@@ -937,11 +1035,11 @@
             "Krama personen till höger",
 
             "Ge ifrån dig ett stön",
-            
+
             "Visa oss din Tinder-profil om du har någon",
-            
+
             "Visa oss din äldsta selfie",
-            
+
             "Låt alla i rummet signera din arm",
 
         ],
@@ -965,9 +1063,9 @@
             "Visa oss hur man twerkar",
 
             "Sitt i knät på personen till höger under nästa runda",
-            
+
             "Blunda och gissa kroppsdelen som någon låter dig röra",
-            
+
             "Ge personen till höger ett sugmärke",
 
         ],
@@ -979,7 +1077,7 @@
         [
 
             "Klunka din drink",
-            
+
             "Shotgunna något",
 
         ],
@@ -1001,7 +1099,7 @@
             "Vilken är bästa filmen du sett?",
 
             "Vad är din största rädsla?",
-            
+
             "Vem i rummet skulle du ta med dig till en öde ö?",
 
         ],
@@ -1025,7 +1123,7 @@
             "Hur gammal var du när du fick din första partner?",
 
             "Berätta om ett beroende du har",
-            
+
             "Finns det några rykten om dig du vet om?",
 
         ],
