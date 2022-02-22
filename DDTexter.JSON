@@ -4,7 +4,7 @@
         [
 
             "totalt olika:",
-            "332",
+            "358",
 
             "basic1: 26 (-1)",
             "basic2: 58 (-2)",
@@ -23,7 +23,7 @@
             "JHA4: 4",
             
             "quiz1: 0",
-            "quiz2: 0",
+            "quiz2: 26",
             "quiz3: 0",
             "quiz4: 0",
 
@@ -859,13 +859,19 @@
                 "Vilket stjärntecken tillhör du om du fyller 11 maj? \n\n Oxen",
                 "Vad heter grundaren av Amazon? \n\n Jeff Bezos",
                 "För vilken film vann Leonardo Di Caprio en oscar för bästa manliga huvudroll? \n\n The Revenant",
-                " \n\n ",
-                " \n\n ",
-                " \n\n ",
-                " \n\n ",
-                " \n\n ",
-                " \n\n ",
-                " \n\n ",
+                "Hur många centimeter är en inch? \n\n 2,54",
+                "Vad heter skådespelaren till Sunes pappa i Sunes Jul? \n\n Peter Haber",
+                "Vad heter drinken med vodka, ginger beer, lime och mynta? \n\n Moscow Mule",
+                "Vad heter Simbas pappa i filmen Lejonkungen? \n\n Mufasa",
+                "Vad heter grisens ungar? \n\n Kultingar",
+                "När är Sveriges nationaldag? \n\n 6 juni",
+                "Vilket land har kommit sist i Eurovision flest gånger? \n\n Norge",
+                "När dog Astrid Lindgren? \n\n 2002",
+                "Vad står IKEA för? \n\n Ingvar Kamprad Elmtaryd Agunnaryd",
+                "Hur många kilo kaffe dricker svenskar per år \n\n 10",
+                "Vilket år Skjöts Olof Palme? \n\n 1986",
+                "Vilket år blev Donald Trump president? \n\n 2017",
+                "Vilken stad har man spårat Covid-19 till? \n\n Wuhan",
 
             ],
 
