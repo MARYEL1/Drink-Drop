@@ -4,12 +4,12 @@
     [
         
         "totalt:",
-        "504",
+        "506",
         
         "basic1: 27",
-        "basic2: 60",
+        "basic2: 61",
         "basic3: 2",
-        "basic4: 37",
+        "basic4: 38",
         "basicExtra: 14",
         "student: 4",
         
@@ -105,7 +105,11 @@
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
-        "p1, dina nästa klunkar dubblas"
+        "p1, dina nästa klunkar dubblas",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
+        "Gå varvet runt och gissa högre/lägre, ta en klunk innan du gissar\n\np1 börjar och den som har fel tar 5 klunkar, tryck för att få fram en kortlek",
+        "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",
         
     ],
     
@@ -165,7 +169,7 @@
         "p1, ta några klunkar vatten, det lär du behöva😉",
         "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",      "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",        "Drack du något senaste rundan? Drick isåfall lika mycket igen",        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, välj en dryckeskompis! Ni ska båda dricka 3 klunkar🤝",
         "p1, grattis🥳 du får lov att smaka på p2s drink",
@@ -214,6 +218,8 @@
         "p1, dela ut 3 klunkar😆",      "p1, dela ut 3 klunkar😆",
         "p1, dela ut 4 klunkar😳",      "p1, dela ut 4 klunkar😳",
         "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",      "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",
+
+        "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",      "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",
         
     ],
     
@@ -274,6 +280,7 @@
         "p1, ta 5 klunkar",         "p1, ta 5 klunkar",
         "p1, dela ut 6 klunkar😏",      "p1, dela ut 6 klunkar😏",
         "p1, dela ut 8 klunkar🤯",      "p1, dela ut 8 klunkar🤯",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",     "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",     "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",
         
     ],
     
