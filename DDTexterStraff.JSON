@@ -4,19 +4,19 @@
     [
         
         "totalt:",
-        "508",
+        "460",
         
         "basic1: 27",
-        "basic2: 61",
+        "basic2: 48",
         "basic3: 2",
-        "basic4: 38",
+        "basic4: 24",
         "basicExtra: 16",
         "student: 4",
         
         "peklek1: 14",
-        "peklek2: 18",
+        "peklek2: 11",
         "peklek3: 10",
-        "peklek4: 1",
+        "peklek4: 0",
         "peklekStudent: 2",
         
         "JHA1: 14",
@@ -44,7 +44,7 @@
         "lyricStudent: 0",
         
         "WYR1: 7",
-        "WYR2: 5",
+        "WYR2: 4",
         "WYR3: 3",
         "WYR4: 1",
         "WYRStudent: 0",
@@ -52,7 +52,7 @@
         "dares1: 3",
         "dares2: 9",
         "dares3: 10",
-        "dares4: 2",
+        "dares4: 0",
         "daresStudent: 2",
         
         "truths1: 7",
@@ -179,11 +179,9 @@
     [
         
         "Alla får 1 straff",     "Alla får 1 straff",     "Alla får 1 straff",
-        "Alla tar så många straffar de orkar",       "Alla tar så många straffar de orkar",
+        "Alla tar så många straffar de vill",       "Alla tar så många straffar de vill",
         "p1, personerna till höger och vänster om dig får varsitt straff",
         "Ta så många straffar som det är personer i rummet",
-        "Flytta era drycker ett steg åt höger och smaka på den dryck ni nu har i handen",
-        "Flytta era drycker ett steg åt vänster och smaka på den dryck ni nu har i handen",
         "Alla får 1 straff förutom p1, du får 2😘",       "Alla får 1 straff förutom p2, du får 2😘",
         "Vattenfall! Ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
         "p1, nästa gäng straffar du får kan du ge bort till någon annan (Om du vill🤔)",     "p1, nästa gäng straffar du får kan du ge bort till någon annan (Om du vill🤔)",     "p1, nästa gäng straffar du får kan du ge bort till någon annan (Om du vill🤔)",
@@ -193,43 +191,22 @@
         "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel får 3 straffar, tryck för att få fram en kortlek",      "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel får 3 straffar, tryck för att få fram en kortlek",
         "Fick du något straff senaste rundan? Ta isåfall lika många straff igen",        "Fick du något straff senaste rundan? Ta isåfall lika många straff igen",        "Fick du något straff senaste rundan? Ta isåfall lika många straff igen",
         "p1, välj en kompis! Ni ska båda ta 3 straffar🤝",
-        "p1, grattis🥳 du får lov att smaka på p2s dryck",
-        "p1 och p2, switcha era drycker och ta 1 straff😵‍💫",
-        "p1 är inte full nog🤔 ta 1 straff",
         "p1, Grattis! du får hela 3 straffar🤩",
         "p1, bjud personen som håller i festen på 1 straff🙏 den lär behöva det med dig i huset",
         "p1, visa oss din dolda talang🤩 har du ingen? då får du 1 straff och hoppas att du inte är lika tråkig nästa gång🥱",
         "Alla i rummet tar ett straff💪",
         "Dags att ta ett straff för alla i rummet🙌",
-        "Tråkiga ni är! Alla i rummet tar för att liva upp det lite här🥱",
+        "Tråkiga ni är! Alla i rummet tar 1 straff🥱",
         "Alla tar 3 straffar medans p1 får en selfie📸 med alla samtidigt👨‍👩‍👧‍👦",
         "Alla singlar tar 1 straff😼",
         "Alla i förhållande tar 1 straff👩‍❤️‍💋‍👨",
         "Nästa person som svär får 5 straffar, sedan får du fan ta och ge dig🤬",
         "Hjälten som håller i festen får 1 straff🦸",
         "p1, visa din historik😳 eller ta 3 straffar",
-        "p1, du måste ta dina straff med vänsterhanden tills p2 druckit upp sin dryck, bryts detta får du 3 straffstraffar",
         "Alla som gått på toaletten under kvällen tar 2 straffar💩",
-        "De som inte känner av något än tar 3 straffar, hoppas det gör susen😵‍💫",
-        "De som är känner av något tar 3 straffar, se och lär ni andra😤",
-        "p1, ta ett straff från valfri persons dryck, p2s dryck ser till exempel riktigt god ut😋",
-        "p1, dela ut en straff av din dryck, p2 ser riktigt sugen ut till exempel😉",
-        "Alla som har grogg förstärker den😎",
         "Sten, sax, påse mellan p1 och p2, förloraren får 3 straffar",
-        "Alla som har grogg får 1 straff😵",
-        "Ser ut som att klockan⏰ är grogg, alla med grogg får 3 straffar🤪",
-        "Alla som har vin🍷 får 1 straff",
-        "Nu får ni med vin dra igång! Ta 3 straffar🍾",
-        "Alla som har cider🧃 får 1 straff",
-        "Alla som har cider🧃 får 3 straffar",
-        "Alla som har öl får 1 straff🍻",
-        "Alla som har öl får 3 straffar🍻",
-        "Alla som har burk får 1 straff",
-        "Alla som har mugg får 1 straff🥤",
-        "Alla ociviliserade människor som har mugg kan ta 1 straff😒",
         "p1, dela ut 3 straffar, ge inte alla till stackars p2 bara😲",         "p1, dela ut 3 straffar, ge inte alla till stackars p2 bara😲",
         
-        "Alla som har glas får 1 straff🧐",
         "p1, köa en låt och spela den härnäst",
         "p1, dina nästa straffar dubblas",
         "p1 och p2, gör en armkrok och ta 3 straffar",
@@ -268,7 +245,7 @@
         "Gå varvet runt och gissa högre/lägre, ta en straff innan du gissar\n\np1 börjar och den som har fel får 5 straffar, tryck för att få fram en kortlek",       "Gå varvet runt och gissa högre/lägre, ta en straff innan du gissar\n\np1 börjar och den som har fel får 5 straffar, tryck för att få fram en kortlek",       "Gå varvet runt och gissa högre/lägre, ta en straff innan du gissar\n\np1 börjar och den som har fel får 5 straffar, tryck för att få fram en kortlek",
         "Alla får 3 straffar förutom p1, du får 5😈",         "Alla får 3 straffar förutom p2, du får 5😈",
         "Alla får 5 straffar förutom p1, du behöver bara ta 3😘",         "Alla får 5 straffar förutom p1, du behöver bara ta 3😘",
-        "Vattenfall! Alla tar och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",       "Vattenfall! Alla tar och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
+        "Vattenfall! Ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",       "Vattenfall! Ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
         "p1, välj en kompis! Ni ska båda ta 5 straffar🤝",
         "p1, välj en kompis! Ni ska båda ta ett stort straff tillsammans🤝",
         
@@ -276,27 +253,13 @@
         "p1, dina nästa straffar dubblas",
         "p1, dina nästa straffar dubblas",
         "p1 och p2 får ett stort straff var, finns inget stort straff får ni 3 straffar var och lär er vara mer förberedda nästa gång😤",
-        "p1, har du mindre än halva drycken kvar? ta ett straff isåfall upp resten och sluta sega dig🥱",
-        "Nästa person som går på toaletten måste göra slut på sin dryck först",
-        "De som spydde🤮 förra helgen tar 1 straff, bra jobbat",
-        "Första personen att göra slut på sin dryck får dela ut 10 straffar🏁",
         "Sten, sax, påse mellan p1 och p2, förloraren får 5 straffar",
-        "p1, har du mindre än halva drycken kvar? Gör isåfall slut på den😉",
         
-        "De med mindre än halva drycken kvar gör slut på den🍻",
-        "Sten, sax, påse mellan p1 och p2, förloraren får ett stort straff eller gör slut på sin dryck",
+        "Sten, sax, påse mellan p1 och p2, förloraren får ett stort straff",
         "p1 ser inte ut att vara igång än, ta 5 straffar",
         "p1 och p2, gör en armkrok och ta 5 straffar",
         "p1 och p2 tar flera straffar, p1 får inte ge sig innan p2 har gett sig",      "p1 och p2 tar flera straffar, p1 får inte ge sig innan p2 har gett sig",
-        "Alla som har grogg får 5 straffar😵",
-        "Alla som har vin🍷 får 5 straffar",
-        "Alla som har cider🧃 får 5 straffar",
-        "Alla som har öl får 5 straffar🍻",
-        "Alla som har burk får 5 straffar",
         
-        "Alla som har mugg får 5 straffar🥤",
-        "Alla som har mugg kan ta 5 straffar😒",
-        "Alla som har glas får 5 straffar🧐",
         "p1, ta 4 straffar",         "p1, ta 4 straffar",
         "p1, ta 5 straffar",         "p1, ta 5 straffar",
         "p1, dela ut 6 straffar😏",      "p1, dela ut 6 straffar😏",
@@ -534,20 +497,13 @@
     
     [
         
-        "Vem är fullast?",
-        "Vem är nyktrast?",
         "Vem gör av med mest pengar en utekväll?",
         "Vem hamnar oftast i slagsmål/Diskussioner?",
-        "Vem har störst chans att hamna i fyllecell?",
-        "Vem blir fullast ikväll?",
-        "Vem blir alltid fullast?",
         "Vem har blivit utslängd från baren flest gånger?",
         "Vem borde få fler straffar?",
         "Vem har bäst fester?",
         
         "Vem får flest matchningar på tinder?",
-        "Vem blandar starkast groggar?",
-        "Vem blandar svagast groggar?",
         "Vem gråter av disneyfilmer?",
         "Vem ljuger sämst?",
         "Vem är bäst på Beer Pong?",
@@ -581,7 +537,6 @@
     
     [
         
-        "Vem ska spy ikväll?",
         
     ],
     
@@ -1047,7 +1002,6 @@
         
         "cider \n\n eller \n\n öl",
         "Shotta \n\n eller \n\n Grogga",
-        "Dricka endast vatten ikväll \n\n eller \n\n Dricka endast det du tar nu, imorgon",
         "Inte dricka alkohol nästa månad \n\n eller \n\n Inte dricka kaffe nästa månad",
         "Ha en smartare partner \n\n eller \n\n Ha en dummare partner",
         
@@ -1138,8 +1092,6 @@
     
     [
         
-        "Klunka din drink",
-        "Shotgunna något",
         
     ],
     
