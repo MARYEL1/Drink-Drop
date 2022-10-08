@@ -82,6 +82,16 @@
         "nej"
         
     ],
+
+
+
+    "promoteBeta":
+    
+    [
+        
+        "nej"
+        
+    ],
     
     
     
@@ -461,6 +471,9 @@
         "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
         "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
         "p1, dags för en dare! Nästa kort bestämmer vad, vill du inte utföra daren dricker du 5 klunkar",
+
+        "p1, välj en person som måste utföra nästa dare, vill personen inte utföra det tar den 5 klunkar",
+        "p1, välj en person som måste utföra nästa dare, vill personen inte utföra det tar den 5 klunkar",
         
     ],
     
@@ -474,6 +487,9 @@
         "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
         "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
         "p1, dags för en truth! Nästa kort bestämmer vad, vill du inte svara dricker du 5 klunkar",
+
+        "p1, välj en person som måste besvara nästa truth, vill personen inte svara tar den 5 klunkar",
+        "p1, välj en person som måste besvara nästa truth, vill personen inte svara tar den 5 klunkar",
         
     ],
     
