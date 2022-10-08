@@ -4,12 +4,12 @@
     [
         
         "totalt:",
-        "505",
+        "506",
         
-        "basic1: 26",
+        "basic1: 27",
         "basic2: 61",
         "basic3: 2",
-        "basic4: 37",
+        "basic4: 38",
         "basicExtra: 14",
         "student: 4",
         
@@ -21,7 +21,7 @@
         
         "JHA1: 14",
         "JHA2: 37",
-        "JHA3: 19",
+        "JHA3: 18",
         "JHA4: 4",
         "JHAStudent: 6",
         
@@ -69,7 +69,7 @@
     
     [
         
-        "0.4"
+        "1.0.2b1"
         
     ],
     
@@ -89,7 +89,38 @@
     
     [
         
-        "*  Nytt studentläge för er som studerar\n\n*  Finish the lyric är nu tillgängligt, gå och aktivera det i inställningar!\n\n*  Nu finns Högre/Lägre integrerat i spelet\n\n*  Ökade klunkar för Temalek och Would You Rather om du har på snabbare förtäring\n\n*  Massa nya kort!\n\n*  Man kommer nu åt dessa notes i menyn\n\n*  Buggfixar\n\n"
+        "*  Massa buggfixar\n\n"
+        
+    ],
+
+
+
+    "event":
+
+    [
+
+        "",
+        ""
+
+    ],
+
+
+
+    "ignorera":
+    
+    [
+        
+        "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",
+        "p1, singla slant! blir det krona tar du 3 klunkar men om det blir klave tar du en shot⁉️ Tryck för att få fram en slant",
+        "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, dina nästa klunkar dubblas",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
+        "Gå varvet runt och gissa högre/lägre, ta en klunk innan du gissar\n\np1 börjar och den som har fel tar 5 klunkar, tryck för att få fram en kortlek",
+        "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",
         
     ],
     
@@ -127,6 +158,7 @@
         "Alla med ljust hår dricker👩🏼",
         "Alla med armbågar på bordet dricker så många klunkar som det finns par med armbågar på bordet",
         "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
+        "Alla med tatuering dricker",
         
     ],
     
@@ -137,7 +169,7 @@
     [
         
         "Alla tar 1 klunk",     "Alla tar 1 klunk",     "Alla tar 1 klunk",
-        "Alla Klunkar så länge de orkar!",       "Alla Klunkar så länge de orkar!",       "Alla Klunkar så länge de orkar!",
+        "Alla Klunkar så länge de orkar!",       "Alla Klunkar så länge de orkar!",
         "p1, personerna till höger och vänster om dig dricker",
         "Ta så många klunkar som det är personer i rummet",
         "Flytta era drinkar ett steg åt höger och smaka på den drink ni nu har i handen",
@@ -148,7 +180,7 @@
         "p1, ta några klunkar vatten, det lär du behöva😉",
         "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",       "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 3 klunkar⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",      "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar 3 klunkar, tryck för att få fram en kortlek",
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",        "Drack du något senaste rundan? Drick isåfall lika mycket igen",        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, välj en dryckeskompis! Ni ska båda dricka 3 klunkar🤝",
         "p1, grattis🥳 du får lov att smaka på p2s drink",
@@ -158,7 +190,6 @@
         "p1, bjud personen som håller i festen på 1 klunk🙏 den lär behöva det med dig i huset",
         "p1, visa oss din dolda talang🤩 har du ingen? då får du dricka 1 klunk och hoppas att du inte är lika tråkig nästa gång🥱",
         "Alla i rummet dricker💪",
-        "Alla med tatuering dricker",
         "Dags att dricka för alla i rummet🙌",
         "Tråkiga ni är! Alla i rummet dricker för att liva upp det lite här🥱",
         "Alla dricker 3 klunkar medans p1 tar en selfie📸 med alla samtidigt👨‍👩‍👧‍👦",
@@ -186,6 +217,7 @@
         "Alla som dricker ur burk tar 1 klunk",
         "Alla som dricker ur mugg tar 1 klunk🥤",
         "Alla ociviliserade människor som dricker ur mugg kan ta 1 klunk😒",
+        "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",         "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",
         
         "Alla som dricker ur glas tar 1 klunk🧐",
         "p1, köa en låt och spela den härnäst",
@@ -198,7 +230,7 @@
         "p1, dela ut 4 klunkar😳",      "p1, dela ut 4 klunkar😳",
         "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",      "p1, dela ut 5 klunkar, sprid dem bäst du vill, eller bara ge alla till p2😏",
         
-        "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",         "p1, dela ut 3 klunkar, ge inte alla till stackars p2 bara😲",
+        "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",      "p1, ditt namn kommer att vara mer förekommande i 5 rundor🤩",
         
     ],
     
@@ -259,6 +291,7 @@
         "p1, ta 5 klunkar",         "p1, ta 5 klunkar",
         "p1, dela ut 6 klunkar😏",      "p1, dela ut 6 klunkar😏",
         "p1, dela ut 8 klunkar🤯",      "p1, dela ut 8 klunkar🤯",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",     "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",     "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤯",
         
     ],
     
@@ -647,7 +680,6 @@
         "Jag har aldrig legat i någon annans säng, som inte varit med i akten",
         "Jag har aldrig haft sex i en bil",
         "Jag har aldrig legat på en skola/arbetsplats",
-        "Jag har aldrig provat någon form av BDSM",
         
     ],
     
