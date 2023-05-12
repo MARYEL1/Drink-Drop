@@ -43,6 +43,31 @@
         "Alla som dricker ur glas tar klunkarLite🧐",
     ],
 
+    "basicJHA":
+    [
+        "Jag har aldrig"
+    ],
+
+    "basicPeklek":
+    [
+        "Peklek"
+    ],
+
+    "basicTema":
+    [
+        "Temalek"
+    ],
+
+    "basicQuiz":
+    [
+        "Quiz"
+    ],
+
+    "basicLyric":
+    [
+        "Finish the lyric"
+    ],
+
     "basic":
     [
         "Fuck it, p1 tar klunkarLite för varje person i rummet🥰",
@@ -67,7 +92,7 @@
         "p1, välj en kompis! Ni ska båda ta klunkarMycket🤝",
         "p1 är inte igång än🤔 ta klunkarLite",
         "p1, Grattis! Du får ta hela klunkarMycket🤩",
-        "p1, visa oss en talang🤩 har du ingen? då får du dricka klunkarlite🥱",
+        "p1, visa oss en talang🤩 har du ingen? då får du dricka klunkarLite🥱",
         "Alla i rummet tar klunkarLite💪",
         "Dags att ta klunkarMycket för alla i rummet🙌",
         "Alla i rummet tar klunkarMycket för att liva upp det lite här🥱",
@@ -79,23 +104,23 @@
         "p1, visa din historik😳 eller ta klunkarMycket",
         "Alla som gått på toaletten under kvällen tar klunkarLite💩",
         "Sten, sax, påse mellan p1 och p2, förloraren tar klunkarMycket",
-        "p1, dela ut klunkarlite, ge inte alla till stackars p2 bara😲",
-        "p1, dela ut klunkarlite, ge inte alla till stackars p2 bara😲",
+        "p1, dela ut klunkarLite, ge inte alla till stackars p2 bara😲",
+        "p1, dela ut klunkarLite, ge inte alla till stackars p2 bara😲",
         "p1, köa en låt och spela den härnäst",
         "p1, dina nästa klunkar dubblas",
         "p1 och p2, gör en armkrok och ta klunkarMycket",
-        "p1, ta klunkarlite",
-        "p1, ta klunkarlite",
+        "p1, ta klunkarLite",
+        "p1, ta klunkarLite",
         "p1, ta klunkarMycket",
         "p1, ta klunkarMycket",
         "p1, dela ut klunkarLite😁",
-        "p1, dela ut klunkarlite😁",
+        "p1, dela ut klunkarLite😁",
         "p1, dela ut klunkarMycket😆",
         "p1, dela ut klunkarMycket😆",
         "p1, dela ut klunkarMycket😳",
-        "p1, dela ut klunkarmycket😳",
-        "p1, dela ut klunkarmycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
-        "p1, dela ut klunkarmycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
+        "p1, dela ut klunkarMycket😳",
+        "p1, dela ut klunkarMycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
+        "p1, dela ut klunkarMycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
         "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
         "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
     ],
