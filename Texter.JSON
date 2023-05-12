@@ -1,0 +1,187 @@
+{
+    "":
+    [
+        "",
+    ],
+
+    "senasteVersion":
+    [
+        "0.4"
+    ],
+
+    "event":
+    [
+        ""
+    ],
+
+    "ignorera":
+    [
+        ""
+    ],
+
+    "basicVetInteVadJagSkaGöraMed":
+    [
+        "Vattenfall! Alla dricker och ni får bara sluta efter personen till höger om er slutar, p1 är den första som får ge sig",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "p1, du måste dricka med vänsterhanden tills p2 druckit upp sin drink, bryts detta får du 3 straffklunkar",
+        "De som inte är fulla än dricker 3 klunkar, hoppas det gör susen😵‍💫",
+        "De som är fulla dricker 3 klunkar, se och lär ni andra😤",
+        "Alla som dricker grogg häller i mer sprit😎",
+        "Alla som dricker grogg tar en klunk😵",
+        "Ser ut som att klockan⏰ är grogg, alla med grogg tar 3 klunkar🤪",
+        "Alla som dricker vin🍷 tar en klunk",
+        "Nu får ni med vin dra igång! Ta 3 klunkar🍾",
+        "Alla som dricker cider🧃 tar klunkarLite",
+        "Alla som dricker cider🧃 tar 3 klunkar",
+        "Alla som dricker öl tar klunkarLite🍻",
+        "Alla som dricker öl tar 3 klunkar🍻",
+        "Alla som dricker ur burk tar klunkarLite",
+        "Alla som dricker ur mugg tar klunkarLite🥤",
+        "Alla ociviliserade människor som dricker ur mugg kan ta klunkarLite😒",
+        "Alla som dricker ur glas tar klunkarLite🧐",
+    ],
+
+    "basic":
+    [
+        "Fuck it, p1 tar klunkarLite för varje person i rummet🥰",
+        "Alla tar klunkarLite",
+        "Alla tar klunkarLite",
+        "Alla tar klunkarLite",
+        "p1, personerna till höger och vänster om tar klunkarMycket",
+        "p1, personerna till höger och vänster om tar klunkarLite",
+        "Ta så många klunkar som det är personer i rummet",
+        "Alla tar klunkarLite förutom p1, du får klunkarMycket😘",
+        "Alla tar klunkarLite förutom p2, du får klunkarMycket😘",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
+        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
+        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
+        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
+        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
+        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
+        "p1, välj en kompis! Ni ska båda ta klunkarMycket🤝",
+        "p1 är inte igång än🤔 ta klunkarLite",
+        "p1, Grattis! Du får ta hela klunkarMycket🤩",
+        "p1, visa oss en talang🤩 har du ingen? då får du dricka klunkarlite🥱",
+        "Alla i rummet tar klunkarLite💪",
+        "Dags att ta klunkarMycket för alla i rummet🙌",
+        "Alla i rummet tar klunkarMycket för att liva upp det lite här🥱",
+        "Alla tar klunkarLite medans p1 tar en selfie med alla samtidigt📸",
+        "Alla singlar tar klunkarLite😼",
+        "Alla i förhållande tar klunkarLite👩‍❤️‍💋‍👨",
+        "Nästa person som svär tar klunkarMycket, sedan får du fan skärpa dig🤬",
+        "Hjälten som håller i festen tar klunkarLite🦸",
+        "p1, visa din historik😳 eller ta klunkarMycket",
+        "Alla som gått på toaletten under kvällen tar klunkarLite💩",
+        "Sten, sax, påse mellan p1 och p2, förloraren tar klunkarMycket",
+        "p1, dela ut klunkarlite, ge inte alla till stackars p2 bara😲",
+        "p1, dela ut klunkarlite, ge inte alla till stackars p2 bara😲",
+        "p1, köa en låt och spela den härnäst",
+        "p1, dina nästa klunkar dubblas",
+        "p1 och p2, gör en armkrok och ta klunkarMycket",
+        "p1, ta klunkarlite",
+        "p1, ta klunkarlite",
+        "p1, ta klunkarMycket",
+        "p1, ta klunkarMycket",
+        "p1, dela ut klunkarLite😁",
+        "p1, dela ut klunkarlite😁",
+        "p1, dela ut klunkarMycket😆",
+        "p1, dela ut klunkarMycket😆",
+        "p1, dela ut klunkarMycket😳",
+        "p1, dela ut klunkarmycket😳",
+        "p1, dela ut klunkarmycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
+        "p1, dela ut klunkarmycket, sprid dem bäst du vill, eller bara ge alla till p2😏",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
+    ],
+
+    "basicFörtäring":
+    [
+        "",
+    ],
+
+    "basicSnusk":
+    [
+        "",
+    ],
+
+    "jha":
+    [
+        "",
+    ],
+
+    "jhaFörtäring":
+    [
+        "",
+    ],
+
+    "jhaSnusk":
+    [
+        "",
+    ],
+
+    "peklek":
+    [
+        "",
+    ],
+
+    "peklekFörtäring":
+    [
+        "",
+    ],
+
+    "peklekSnusk":
+    [
+        "",
+    ],
+
+    "tema":
+    [
+        "",
+    ],
+
+    "temaFörtäring":
+    [
+        "",
+    ],
+
+    "temaSnusk":
+    [
+        "",
+    ],
+
+    "quiz":
+    [
+        "",
+    ],
+
+    "quizFörtäring":
+    [
+        "",
+    ],
+
+    "quizSnusk":
+    [
+        "",
+    ],
+
+    "lyric":
+    [
+        "",
+    ],
+
+    "lyricFörtäring":
+    [
+        "",
+    ],
+
+    "lyricSnusk":
+    [
+        "",
+    ],
+}
