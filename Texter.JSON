@@ -1,12 +1,17 @@
 {
     "senasteVersion":
     [
-        ""
+        "2.0"
     ],
 
     "event":
     [
         ""
+    ],
+
+    "safemode":
+    [
+        "nej"
     ],
 
     "kanRepeteras":
@@ -125,27 +130,6 @@
 
     "basic":
     [
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
         "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
