@@ -22,6 +22,18 @@
         "Maträtter på rbokstav",
         "Djur på rbokstav",
         "klädmärken på rbokstav",
+
+        "p1, dina nästa klunkar dubblas",
+        "p1, ta klunkarLite",
+        "p1, ta klunkarMycket",
+        "p1, dela ut klunkarLite😁",
+        "p1, dela ut klunkarMycket😳",
+        "Drack du något senaste rundan? Drick isåfall dubbla det igen",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "Alla tar klunkarMycket",
+        "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
+        "Alla tar klunkarMycket förutom p1, du behöver bara ta klunkarLite😘",
+
         "Kör en \"jag har aldrig\", temat dras av nästa kort",
         "Dags för peklek! Leken dras av nästa kort",
         "Dags för peklekmellan p1 och p2! Leken dras av nästa kort",
@@ -30,54 +42,6 @@
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-    ],
-
-    "basicVetInteVadJagSkaGöraMed":
-    [
-        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
-        "p1, du måste dricka med vänsterhanden tills p2 druckit upp sin drink, bryts detta får du 3 straffklunkar",
-        "De som inte är fulla än dricker 3 klunkar, hoppas det gör susen😵‍💫",
-        "De som är fulla dricker 3 klunkar, se och lär ni andra😤",
-
-        "Alla som dricker grogg häller i mer sprit😎",
-        "Alla som dricker grogg tar en klunk😵",
-        "Ser ut som att klockan⏰ är grogg, alla med grogg tar 3 klunkar🤪",
-        "Alla som dricker vin🍷 tar en klunk",
-        "Nu får ni med vin dra igång! Ta 3 klunkar🍾",
-        "Alla som dricker cider🧃 tar klunkarLite",
-        "Alla som dricker cider🧃 tar 3 klunkar",
-        "Alla som dricker öl tar klunkarLite🍻",
-        "Alla som dricker öl tar 3 klunkar🍻",
-        "Alla som dricker ur burk tar klunkarLite",
-        "Alla som dricker ur mugg tar klunkarLite🥤",
-        "Alla ociviliserade människor som dricker ur mugg kan ta klunkarLite😒",
-        "Alla som dricker ur glas tar klunkarLite🧐",
-
-        "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        "p1, slå tärningen och drick så många klunkar som tärningen säger, tryck för att få fram en tärning",
-        "p1, singla slant! blir det krona tar du 1 klunk men om det blir klave tar du 5 klunkar⁉️ Tryck för att få fram en slant",
-        "Gå varvet runt och gissa högre/lägre, ta en klunk innan du gissar\n\np1 börjar och den som har fel tar 5 klunkar, tryck för att få fram en kortlek",
-
-        "p1, klunka din drink, leken fortsätter inte före den är slut",
-        "Drack du något senaste rundan? Drick isåfall dubbla det igen",
-        "p1, har du mindre än halva drinken kvar? Drick isåfall upp resten och sluta sega dig🥱",
-        "Nästa person som går på toaletten måste dricka upp sin drink först",
-        "De som spydde🤮 förra helgen dricker 1 klunk, bra jobbat",
-        "Första personen att dricka upp sin drink får dela ut 10 klunkar🏁",
-        "p1, har du mindre än halva drinken kvar? Isåfall klunka den😉",
-        "De med mindre än halva drinken kvar klunkar resten🍻",
-        "p1 och p2 klunkar, p1 får inte ge sig innan p2 har gett sig",
-
-        "Alla som dricker grogg tar 5 klunkar😵",
-        "Alla som dricker vin🍷 tar 5 klunkar",
-        "Alla som dricker cider🧃 tar 5 klunkar",
-        "Alla som dricker öl tar 5 klunkar🍻",
-        "Alla som dricker ur burk tar 5 klunkar",
-        "Alla som dricker ur mugg tar 5 klunkar🥤",
-        "Alla som dricker ur mugg kan ta 5 klunkar😒",
-        "Alla som dricker ur glas tar 5 klunkar🧐",
     ],
 
     "basicJHA":
@@ -146,9 +110,10 @@
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
         "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
-        
-        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
+        "Vattenfall! Men endast mellan p1 och p2, p1 bestämmer hur länge",
         "Vattenfall! p1 är den första som får ge sig",
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
         "Den längsta personen tar klunkarMycket",
         "Den kortaste personen tar klunkarMycket",
         "Den äldsta personen tar klunkarMycket",
@@ -210,6 +175,7 @@
     "basicMeraFörtäring":
     [
         "Vattenfall! p1 är den första som får ge sig",
+        "Drack du något senaste rundan? Drick isåfall dubbla det igen",
         "Fuck it, p1 tar klunkarLite för varje person i rummet🥰",
         "Alla tar klunkarMycket",
         "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
@@ -220,7 +186,7 @@
         "p1 ser inte ut att vara igång än, ta klunkarMycket",
         "p1 och p2, gör en armkrok och ta klunkarMycket",
         "p1, ta klunkarMycket",
-        "p1, dela ut klunkarMycket🤯",
+        "p1, dela ut klunkarMycket😳",
     ],
 
     "basicSnusk":
@@ -233,6 +199,30 @@
         "p1, skulle du kunna ligga med någon i rummet? Ta isåfall klunkarLite",
         "p1, äger du någon sexleksak? Ta isåfall klunkarLite",
         "p1, välj ut snyggaste personen i rummet, ni ska båda ta klunkarLite",
+    ],
+
+    "basicStraffExkluderat":
+    [
+        "Nästa person som går på toaletten måste dricka upp sin drink först",
+        "p1, har du mindre än halva drinken kvar? Drick isåfall upp resten och sluta sega dig🥱",
+        "p1, du måste dricka med vänsterhanden tills p2 druckit upp sin drink, bryts detta får du ta klunkarMycket",
+        "De som inte är fulla än dricker klunkarMycket, hoppas det gör susen😵‍💫",
+        "Ser ut som att klockan⏰ är grogg, alla med grogg tar klunkarLite🤪",
+        "Alla som dricker vin🍷 tar klunkarLite",
+        "Alla som dricker cider🧃 tar klunkarLite",
+        "Alla som dricker öl🍻 tar klunkarLite",
+        "Alla som dricker ur burk🥫 tar klunkarLite",
+        "Alla som dricker ur mugg🥤 tar klunkarLite",
+        "Alla som dricker ur glas🧐 tar klunkarLite",
+    ],
+
+    "basicStraffExkluderatMeraFörtäring":
+    [
+        "De som är fulla dricker klunkarLite, se och lär ni andra😤",
+        "Alla som dricker grogg häller i mer sprit😎",
+        "p1, klunka din drink, leken fortsätter inte före den är slut",
+        "Första personen att dricka upp sin drink får dela ut 10 klunkar🏁",
+        "De med mindre än halva drinken kvar klunkar resten🍻",
     ],
 
     "jha":
