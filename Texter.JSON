@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "ja"
+        "nej"
     ],
 
     "kanRepeteras":
@@ -30,9 +30,14 @@
         "p1, dela ut klunkarMycket😳",
         "Drack du något senaste rundan? Drick isåfall dubbla det igen",
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "Alla tar klunkarLite",
         "Alla tar klunkarMycket",
         "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
         "Alla tar klunkarMycket förutom p1, du behöver bara ta klunkarLite😘",
+        "p1 och p2, ni är nu drinking buddys, alla klunkar som p1 får ska p2 också ta och vice versa. Detta gäller tills någon av er druckit upp",
+        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
+        "Sten, sax, påse mellan p1 och p2 om klunkarLite, vinnaren kan utmana förloraren igen för att höja antalet klunkar med 1, den sista som förlorar tar alla klunkar",
+        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
 
         "Kör en \"jag har aldrig\", temat dras av nästa kort",
         "Dags för peklek! Leken dras av nästa kort",
@@ -107,12 +112,24 @@
 
     "basic":
     [
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+
+        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
+        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
+        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
         "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
+        "Sten, sax, påse mellan p1 och p2 om klunkarLite, vinnaren kan utmana förloraren igen för att höja antalet klunkar med 1, den sista som förlorar tar alla klunkar",
         "Vattenfall! Men endast mellan p1 och p2, p1 bestämmer hur länge",
         "Vattenfall! p1 är den första som får ge sig",
-        "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
         "Den längsta personen tar klunkarMycket",
         "Den kortaste personen tar klunkarMycket",
@@ -134,7 +151,6 @@
         "p1, personerna till höger och vänster om tar klunkarLite",
         "Ta så många klunkar som det är personer i rummet",
         "Alla tar klunkarLite förutom p1, du får klunkarMycket😘",
-        "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, välj en kompis! Ni ska båda ta klunkarMycket🤝",
         "p1 är inte igång än🤔 ta klunkarLite",
         "p1, Grattis! Du får ta hela klunkarMycket🤩",
@@ -149,7 +165,6 @@
         "Hjälten som håller i festen tar klunkarLite🦸",
         "p1, visa din historik😳 eller ta klunkarMycket",
         "Alla som gått på toaletten under kvällen tar klunkarLite💩",
-        "Sten, sax, påse mellan p1 och p2, förloraren tar klunkarMycket",
         "p1, dela ut klunkarLite, ge inte alla till stackars p2 bara😲",
         "p1, köa en låt och spela den härnäst",
         "p1, dina nästa klunkar dubblas",
@@ -163,6 +178,9 @@
         "p1, läs ditt senaste sms för de andra eller ta klunkarLite",
         "p1, visa din senaste bild för de andra eller ta klunkarMycket",
         "p1, välj ut personen du längst hade klarat dig i karantän med, ni båda tar klunkarLite",
+        "p1 kan närsomhelst sätta tummen i bordet, sista personen som sätter sin tumme i bordet efter p1 tar klunkarMycket",
+        "p1, läs upp ditt senaste tindermeddelande utan kontext, har du inte tinder tar du klunkarLite",
+        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
     ],
 
     "basicStudent":
@@ -170,12 +188,16 @@
         "p1, byt ovve med p2, har ni inte ovvaarna på tar ni klunkarMycket",
         "p1, låt p2 testa rycka ett märke från dig, har du inte ovven på tar du klunkarMycket",
         "p1, har du legat i ovven någon gång? Ta isåfall klunkarLite",
+        "Alla som varit engagerade i en skolförening tar klunkarLite"
     ],
 
     "basicMeraFörtäring":
     [
-        "Vattenfall! p1 är den första som får ge sig",
         "Drack du något senaste rundan? Drick isåfall dubbla det igen",
+
+        "Drack du något senaste rundan? Drick isåfall dubbla det igen",
+
+        "Vattenfall! p1 är den första som får ge sig",
         "Fuck it, p1 tar klunkarLite för varje person i rummet🥰",
         "Alla tar klunkarMycket",
         "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
@@ -187,6 +209,12 @@
         "p1 och p2, gör en armkrok och ta klunkarMycket",
         "p1, ta klunkarMycket",
         "p1, dela ut klunkarMycket😳",
+        "p1, ta 6 klunkar",
+        "p1, ta 7 klunkar",
+        "p1, ta 8 klunkar",
+        "p1, dela ut 8 klunkar",
+        "p1, dela ut 9 klunkar",
+        "p1, dela ut 10 klunkar",
     ],
 
     "basicSnusk":
@@ -199,10 +227,15 @@
         "p1, skulle du kunna ligga med någon i rummet? Ta isåfall klunkarLite",
         "p1, äger du någon sexleksak? Ta isåfall klunkarLite",
         "p1, välj ut snyggaste personen i rummet, ni ska båda ta klunkarLite",
+        "Alla som hellre sväljer än spottar tar klunkarLite😈",
     ],
 
     "basicStraffExkluderat":
     [
+        "p1, låt p2 blanda din nästa grogg, om du inte dricker grogg tar ni båda klunkarLite",
+
+        "p1, låt p2 blanda din nästa grogg, om du inte dricker grogg tar ni båda klunkarLite",
+
         "Nästa person som går på toaletten måste dricka upp sin drink först",
         "p1, har du mindre än halva drinken kvar? Drick isåfall upp resten och sluta sega dig🥱",
         "p1, du måste dricka med vänsterhanden tills p2 druckit upp sin drink, bryts detta får du ta klunkarMycket",
@@ -214,20 +247,26 @@
         "Alla som dricker ur burk🥫 tar klunkarLite",
         "Alla som dricker ur mugg🥤 tar klunkarLite",
         "Alla som dricker ur glas🧐 tar klunkarLite",
+        "p1, skåla med personen du känt kortast, ni båda ska ta klunkarLite",
+        "p1 och p2, ni är nu drinking buddys, alla klunkar som p1 får ska p2 också ta och vice versa. Detta gäller tills någon av er druckit upp",
     ],
 
     "basicStraffExkluderatMeraFörtäring":
     [
-        "De som är fulla dricker klunkarLite, se och lär ni andra😤",
         "Alla som dricker grogg häller i mer sprit😎",
+
+        "Alla som dricker grogg häller i mer sprit😎",
+
+        "De som är fulla dricker klunkarLite, se och lär ni andra😤",
         "p1, klunka din drink, leken fortsätter inte före den är slut",
-        "Första personen att dricka upp sin drink får dela ut 10 klunkar🏁",
+        "Första personen att dricka upp sin drink får dela ut 15 klunkar🏁",
         "De med mindre än halva drinken kvar klunkar resten🍻",
     ],
 
     "jha":
     [
         "Jag har aldrig fuskat på ett prov",
+        "Jag har aldrig skrivit en egen blogg",
         "Jag har aldrig gjort en TikTok",
         "Jag har aldrig sökt till ett tv-program",
         "Jag har aldrig gett bort en present jag själv fått",
@@ -265,6 +304,24 @@
         "Jag har aldrig spytt i ett fordon i rörelse",
         "Jag har aldrig varit på fest som avbrutits av polis",
         "Jag har aldrig liftat",
+        "Jag har aldrig suttit i fyllecell",
+        "Jag har aldrig tagit hål i örat hemma",
+        "Jag har aldrig sprungit från ordningsvakt",
+        "Jag har aldrig ljugit i detta spel",
+        "Jag har aldrig varit otrogen",
+        "Jag har aldrig strulat med någon i en festivalpublik",
+        "Jag har aldrig glömt en partners födelsedag",
+        "Jag har aldrig dejtat någon jag aldrig introducerat för mina kompisar",
+        "Jag har aldrig gett någon blommor",
+        "Jag har aldrig fått blommor av någon",
+        "Jag har aldrig blivit påkommen med att ljuga för att imponera",
+        "Jag har aldrig kallat en partner ett ex:s namn",
+        "Jag har aldrig skrivit ett kärleksbrev",
+        "Jag har aldrig krossat ett fönster",
+        "Jag har aldrig solat utan badkläder på allmän plats",
+        "Jag har aldrig gått på bio ensam",
+        "Jag har aldrig tillverkat alkohol själv",
+        "Jag har aldrig skrivit klottrat graffiti",
     ],
 
     "jhaStudent":
@@ -275,6 +332,7 @@
         "Jag har aldrig kuggat en tenta",
         "Jag har aldrig druckit dagen innan en tenta",
         "Jag har aldrig legat med ovven på",
+        "Jag har aldrig somnat på en föreläsning",
     ],
 
     "jhaSnusk":
@@ -293,11 +351,39 @@
         "Jag har aldrig betalt någon på onlyfans",
         "Jag har aldrig använt en sexleksak själv eller med någon annan",
         "Jag har aldrig haft en trekant",
-        "Jag har aldrig haft sex i någon annans säng (inte någon involverad)",
         "Jag har aldrig haft sex i en bil",
         "Jag har aldrig legat på en skola/arbetsplats",
         "Jag har aldrig varit på en nudiststrand",
         "Jag har aldrig haft en one night stand",
+        "Jag har aldrig skickat nudes",
+        "Jag har aldrig fått nudes",
+        "Jag har aldrig legat med någon i rummet",
+        "Jag har aldrig legat med en kompis ex",
+        "Jag har aldrig blivit påkommen med att onanera",
+        "Jag har aldrig haft sex under vattnet",
+        "Jag har aldrig satt på mig en cumsock",
+        "Jag har aldrig haft sex i en sovsäck",
+        "Jag har aldrig råkat skratta åt någon under sex",
+        "Jag har aldrig legat med ett ex",
+        "Jag har aldrig fått kramp under sex",
+        "Jag har aldrig tittat på porr med någon annan",
+        "Jag har aldrig legat med någon innan jag visste deras namn",
+        "Jag har aldrig haft sex i en kompis säng",
+        "Jag har aldrig skadat mig under sex",
+        "Jag har aldrig haft sex med publik",
+        "Jag har aldrig legat med en lärare",
+        "Jag har aldrig haft sex i en bastu",
+        "Jag har aldrig legat med en sexdocka",
+        "Jag har aldrig använt viagra",
+        "Jag har aldrig hört mina grannar ha sex",
+        "Jag har aldrig smakat på en smaksatt kondom",
+        "Jag har aldrig haft sex i ett tält",
+        "Jag har aldrig köpt något i en porrbutik",
+        "Jag har aldrig legat med någon som inte pratat mitt språk",
+        "Jag har aldrig legat med någon inom en timme från att jag träffat dom första gången",
+        "Jag har aldrig testat mig för könssjukdomar",
+        "Jag har aldrig haft en öppen relation",
+        "Jag har aldrig haft sex på klubben",
     ],
 
     "peklek":
@@ -328,6 +414,20 @@
         "Vem är sämst på Beer Pong?",
         "Vem kommer spy ikväll?",
         "Vem är mest svärmorsdröm?",
+        "Vem snackar mest skit?",
+        "Vem är mest bortskämd?",
+        "Vem är mest romantisk?",
+        "Vem är minst romantisk?",
+        "Vem skulle ta sms lån för onödigt köp?",
+        "Vem har nördat mest Clash of clans?",
+        "Vem pratar med sina växter?",
+        "Vem svarar alltid snabbast på meddelanden?",
+        "Vem går upp senast på morgonen?",
+        "Vem var mest fjortis?",
+        "Vem skulle flashat inför en främling för 100k?r",
+        "Vem är mest simp?",
+        "Vem skulle vara nöjd med ett arrangerat giftemål?",
+        "Vem hade kunnat ringa polisen på grannens fest?",
     ],
 
     "peklekStudent":
@@ -338,6 +438,9 @@
 
     "peklekSnusk":
     [
+        "Vem skulle testat ett random glory hole?",
+        "Vem går igång på sina egna nudes?",
+        "Vem går igång av av intima doktorbesök?",
         "Vem har sjukaste kinken?",
         "Vem skulle få flest följare på onlyfans?",
         "Vem följer flest på onlyfans i hemlighet?",
@@ -347,13 +450,23 @@
         "Vem är snyggast i rummet?",
         "Vem äger flest sexleksaker?",
         "Vem skulle lättast få en trekant?",
+        "Vem kollar mest porr?",
+        "Vem skulle legat med läraren för bättre betyg?",
     ],
 
     "tema":
     [
         "p1 väljer ett tema",
+        "Grundfärger",
+        "Filmer med en Oscar för Best Picture",
+        "Ost-sorter",
+        "Pasta-sorter",
+        "Hundraser",
+        "Musikinstrument",
         "Låtar från melodifestivalen",
         "Alkoholsorter",
+        "Ölsorter",
+        "Vodkamärken",
         "Musikgenrer",
         "Drinkar",
         "Nummer 1 på olika språk",
