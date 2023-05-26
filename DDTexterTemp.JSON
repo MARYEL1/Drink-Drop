@@ -1,0 +1,667 @@
+{
+    "antal":
+    
+    [
+        
+        "totalt:",
+        "508",
+        
+        "basic1: 27",
+        "basic2: 61",
+        "basic3: 2",
+        "basic4: 38",
+        "basicExtra: 16",
+        "student: 4",
+        
+        "peklek1: 14",
+        "peklek2: 18",
+        "peklek3: 10",
+        "peklek4: 1",
+        "peklekStudent: 2",
+        
+        "JHA1: 14",
+        "JHA2: 37",
+        "JHA3: 18",
+        "JHA4: 4",
+        "JHAStudent: 6",
+        
+        "quiz1: 12",
+        "quiz2: 67",
+        "quiz3: 0",
+        "quiz4: 12",
+        "quizStudent: 0",
+        
+        "tema1: 7",
+        "tema2: 11",
+        "tema3: 4",
+        "tema4: 0",
+        "temaStudent: 0",
+        
+        "lyric1: 0",
+        "lyric2: 46",
+        "lyric3: 4",
+        "lyric4: 0",
+        "lyricStudent: 0",
+        
+        "WYR1: 7",
+        "WYR2: 5",
+        "WYR3: 3",
+        "WYR4: 1",
+        "WYRStudent: 0",
+        
+        "dares1: 3",
+        "dares2: 9",
+        "dares3: 10",
+        "dares4: 2",
+        "daresStudent: 2",
+        
+        "truths1: 7",
+        "truths2: 8",
+        "truths3: 14",
+        "truths4: 0",
+        "truthsStudent: 2",
+        
+    ],
+    
+    
+    
+    "version":
+    
+    [
+        
+        "2.1"
+        
+    ],
+    
+    
+    
+    "uppdateraSettings":
+    
+    [
+        
+        "nej"
+        
+    ],
+    
+    
+    
+    "whatsNew":
+    
+    [
+        
+        ""
+        
+    ],
+
+
+
+    "event":
+
+    [
+
+        "",
+        ""
+
+    ],
+
+
+
+    "ignorera":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basic1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basic2":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basic3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basic4":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "basicPeklek":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicPeklek3|4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicJHA":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicJHA3|4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicQuiz":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicQuiz4":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "basicTema":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicTema4":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "basicLyric":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicWYR":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicWYR4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicDares":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicTruths":
+    
+    [
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "basicStudent":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "peklek1":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "peklek2":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "peklek3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "peklek4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "peklekStudent":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "JHA1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "JHA2":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "JHA3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "JHA4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "JHAStudent":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "quiz1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "quiz2":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "quiz3":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "quiz4":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "quizStudent":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "tema1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "tema2":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "tema3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "tema4":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "temaStudent":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "lyric1":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "lyric2":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "lyric3":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "lyric4":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "lyricStudent":
+    
+    [
+        "Uppdatera Appen" 
+    ],
+    
+    
+    
+    "WYR1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "WYR2":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "WYR3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "WYR4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "WYRStudent":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "dares1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "dares2":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "dares3":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "dares4":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "daresStudent":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "truths1":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "truths2":
+    
+    [
+        
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "truths3":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ],
+    
+    
+    
+    "truths4":
+    
+    [
+        "Uppdatera Appen"
+    ],
+    
+    
+    
+    "truthsStudent":
+    
+    [
+        
+        "Uppdatera Appen"
+        
+    ]
+    
+    
+}
