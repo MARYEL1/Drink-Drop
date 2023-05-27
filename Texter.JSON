@@ -181,6 +181,7 @@
         "p1 kan närsomhelst sätta tummen i bordet, sista personen som sätter sin tumme i bordet efter p1 tar klunkarMycket",
         "p1, läs upp ditt senaste tindermeddelande utan kontext, har du inte tinder tar du klunkarLite",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
+        "Personen med längsta snap-streaken tar klunkarMycket",
     ],
 
     "basicStudent":
@@ -404,7 +405,7 @@
         "Vem har störst chans att hamna i fyllecell?",
         "Vem blir fullast ikväll?",
         "Vem blir alltid fullast?",
-        "Vem har blivit utslängd från baren flest gånger?",
+        "Vem har blivit utslängd från klubben flest gånger?",
         "Vem borde dricka mer?",
         "Vem har bäst fester?",
         "Vem får flest matchningar på tinder?",
