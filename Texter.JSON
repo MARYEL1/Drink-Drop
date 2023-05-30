@@ -1,7 +1,7 @@
 {
     "senasteVersion":
     [
-        "2.1"
+        "2.2"
     ],
 
     "event":
@@ -108,6 +108,24 @@
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
+    ],
+
+    "basicRygg":
+    [
+        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+    ],
+
+    "basicCharad":
+    [
+        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
     ],
 
     "basic":
@@ -660,5 +678,57 @@
         "Showing girls the dress room then call it the undress room...\n\n...Show me your titties",
         "om sanningen ska fram, vill du...\n\n...Ligga med mig då",
         "Det har gått flera veckor, baby, sen vi låg där hos dig och du frågade mig...\n\n...Ska vi göra något äckligt",
+    ],
+
+    "rygg":
+    [
+        "Vem är smartast?",
+        "Vem har den mest unika dialekten?",
+        "Vem gifter sig först/härnäst?",
+        "Vem är sämst på att köra bil?",
+        "Vem har snyggast outfit?",
+        "Vem är mest lättlurad?",
+        "Vem skulle vara bäst vloggare?",
+        "Vem är fullast?",
+        "Vem gör av med mest pengar en utekväll?",
+        "Vem hamnar oftast i slagsmål?",
+        "Vem har störst chans att hamna i fyllecell?",
+        "Vem blir fullast ikväll?",
+        "Vem har bäst fester?",
+        "Vem får flest matchningar på tinder?",
+        "Vem blandar svagast groggar?",
+        "Vem är bäst på Beer Pong?",
+        "Vem är mest svärmorsdröm?",
+        "Vem snackar mest skit?",
+        "Vem är mest bortskämd?",
+        "Vem är mest romantisk?",
+        "Vem går upp senast på morgonen?",
+        "Vem var mest fjortis?",
+        "Vem är mest simp?",
+    ],
+
+    "ryggSnusk":
+    [
+        
+    ],
+
+    "charad":
+    [
+        "Beer pong",
+        "Body shot",
+        "Bong (alkohol)",
+        "Baksmälla",
+        "Fickparkera",
+        "Social distansering",
+        "Protest",
+
+        "Gitarr",
+        "Plugga",
+        "Lärare",
+    ],
+
+    "charadSnusk":
+    [
+        
     ],
 }
