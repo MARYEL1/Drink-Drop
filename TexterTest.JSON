@@ -1,7 +1,7 @@
 {
     "senasteVersion":
     [
-        "2.2"
+        "2.3"
     ],
 
     "event":
@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "ja"
+        "nej"
     ],
 
     "kanRepeteras":
