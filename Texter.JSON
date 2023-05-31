@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "ja"
+        "nej"
     ],
 
     "kanRepeteras":
@@ -715,21 +715,38 @@
 
     "charad":
     [
+        "Beer pong",
+        "Body shot",
+        "Bong (alkohol)",
         "Baksmälla",
         "Fickparkera",
         "Social distansering",
         "Protest",
-
-        "Gitarr",
-        "Plugga",
         "Lärare",
-        "Svart bälte",
+        "Jet lag",
+        "Influencer",
+        "Bartendder",
+        "Nekad till klubben",
+        "Harry potter",
+        "Titanic",
+        "Dammsuga",
+        "Präst",
+        "Flamingo",
+        "Drive-in",
+        "Skateboard",
+        "Bowling-kägla",
+        "Schack",
+        "Katniss Everdeen",
+        "Forrest Gump",
+        "Darth Vader",
+        "Mekaniker",
+        "Chicken soup",
+        "Trampa på lego",
     ],
 
     "CharadSnusk":
     [
-        "Beer pong",
-        "Body shot",
-        "Bong (alkohol)",
+        "Strippa",
+        "Tandborste",
     ],
 }
