@@ -709,14 +709,12 @@
 
     "ryggSnusk":
     [
-        
+        "Vem har sjukaste kinken?",
+        "Vem skulle få flest följare på onlyfans?",
     ],
 
     "charad":
     [
-        "Beer pong",
-        "Body shot",
-        "Bong (alkohol)",
         "Baksmälla",
         "Fickparkera",
         "Social distansering",
@@ -725,10 +723,13 @@
         "Gitarr",
         "Plugga",
         "Lärare",
+        "Svart bälte",
     ],
 
     "charadSnusk":
     [
-        
+        "Beer pong",
+        "Body shot",
+        "Bong (alkohol)",
     ],
 }
