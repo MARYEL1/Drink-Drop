@@ -135,12 +135,14 @@
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
         "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
         "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+        "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣"
 
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
         "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
         "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+        "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣"
 
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
@@ -707,9 +709,10 @@
         "Vem är mest simp?",
     ],
 
-    "ryggSnusk":
+    "RyggSnusk":
     [
-        
+        "Vem har sjukaste kinken?",
+        "Vem skulle få flest följare på onlyfans?",
     ],
 
     "charad":
@@ -721,14 +724,31 @@
         "Fickparkera",
         "Social distansering",
         "Protest",
-
-        "Gitarr",
-        "Plugga",
         "Lärare",
+        "Jet lag",
+        "Influencer",
+        "Bartendder",
+        "Nekad till klubben",
+        "Harry potter",
+        "Titanic",
+        "Dammsuga",
+        "Präst",
+        "Flamingo",
+        "Drive-in",
+        "Skateboard",
+        "Bowling-kägla",
+        "Schack",
+        "Katniss Everdeen",
+        "Forrest Gump",
+        "Darth Vader",
+        "Mekaniker",
+        "Chicken soup",
+        "Trampa på lego",
     ],
 
-    "charadSnusk":
+    "CharadSnusk":
     [
-        
+        "Strippa",
+        "Tandborste",
     ],
 }
