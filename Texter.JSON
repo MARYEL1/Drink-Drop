@@ -1,7 +1,7 @@
 {
     "senasteVersion":
     [
-        "2.3"
+        "2.4"
     ],
 
     "event":
@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "nej"
+        "ja"
     ],
 
     "kanRepeteras":
@@ -35,9 +35,7 @@
         "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
         "Alla tar klunkarMycket förutom p1, du behöver bara ta klunkarLite😘",
         "p1 och p2, ni är nu drinking buddys, alla klunkar som p1 får ska p2 också ta och vice versa. Detta gäller tills någon av er druckit upp",
-        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
         "Sten, sax, påse mellan p1 och p2 om klunkarLite, vinnaren kan utmana förloraren igen för att höja antalet klunkar med 1, den sista som förlorar tar alla klunkar",
-        "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
 
         "Kör en \"jag har aldrig\", temat dras av nästa kort",
         "Dags för peklek! Leken dras av nästa kort",
@@ -71,10 +69,10 @@
         "Dags för peklek! Leken dras av nästa kort",
         "Dags för peklek! Leken dras av nästa kort",
         "Dags för peklek! Leken dras av nästa kort",
-        "Dags för peklekmellan p1 och p2! Leken dras av nästa kort",
-        "Dags för peklekmellan p1 och p2! Leken dras av nästa kort",
-        "Dags för peklekmellan p1 och p2! Leken dras av nästa kort",
-        "Dags för peklekmellan p1 och p2! Leken dras av nästa kort",
+        "Dags för peklek mellan p1 och p2! Leken dras av nästa kort",
+        "Dags för peklek mellan p1 och p2! Leken dras av nästa kort",
+        "Dags för peklek mellan p1 och p2! Leken dras av nästa kort",
+        "Dags för peklek mellan p1 och p2! Leken dras av nästa kort",
     ],
 
     "basicTema":
@@ -94,14 +92,10 @@
         "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
         "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
         "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
     ],
 
     "basicLyric":
     [
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
         "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
@@ -121,11 +115,19 @@
 
     "basicCharad":
     [
-        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 1 minut, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+    ],
+
+    "temp":
+    [
+        "OBS, två av varje nedan",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
     ],
 
     "basic":
@@ -133,15 +135,15 @@
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
+        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
         
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
+        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
 
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
@@ -659,7 +661,7 @@
         "You used to call me on my cell phone, late-night when you need...\n\n...My love",
         "Is it too late now to say...\n\n...Sorry?",
         "Do you recall, not long ago, we would walk on the...\n\n...Sidewalk",
-        "Near, far, wherever you are, I believe that the heart...\n\n...Does go on",
+        "Near, far, wherever you are, I believe that the heart...\n\n...Does go on\n(Källa Genius)",
         "We don't care, we aren't caught up in your love affair, and we'll never...\n\n...be royals",
         "If you want my future forget my past, if you wanna get with me...\n\n...Better make it fast",
         "Vi har gått i samma klass i snart ett år, jag har gömt mina känslor...\n\n...Så gott det går",
