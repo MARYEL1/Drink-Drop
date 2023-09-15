@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "ja"
+        "nej"
     ],
 
     "kanRepeteras":
@@ -121,13 +121,6 @@
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-    ],
-
-    "temp":
-    [
-        "OBS, två av varje nedan",
-        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
-        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
     ],
 
     "basic":
