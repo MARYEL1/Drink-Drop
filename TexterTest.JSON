@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "nej"
+        "ja"
     ],
 
     "kanRepeteras":
@@ -135,15 +135,15 @@
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
         
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
 
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
