@@ -1,7 +1,7 @@
 {
     "senasteVersion":
     [
-        "2.5"
+        "2.6"
     ],
 
     "event":
@@ -12,7 +12,7 @@
 
     "safemode":
     [
-        "nej"
+        "ja"
     ],
 
     "kanRepeteras":
@@ -123,27 +123,24 @@
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
     ],
 
-    "temp":
-    [
-        "OBS, två av varje nedan",
-        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
-        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
-    ],
-
     "basic":
     [
+        "Det ballar ur!\n\nAlla klunkar ökas i några rundor🤪",
+        "Det ballar ur!\n\nAlla klunkar ökas i några rundor🤪",
+        "Det ballar ur!\n\nAlla klunkar ökas i några rundor🤪",
+
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
         
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
-        "Alla med partner ska nu tilltalas med sin partners namn, gäller fram tills någon sagt fel eller svarat på sitt egna namn och den ska då ta klunkarMycket",
-        "Alla ska nu tilltalas med sina efternamn, gäller fram tills någon sagt fel och den ska då ta klunkarMycket",
+        "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
+        "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
         "p1 och p2, ni ska spela bomb! p1 börjar med att välja ett kort och ni turas sedan om, den som får bomben tar 10 klunkar💣\nKlicka för att starta spelet",
 
         "p1, slå tärningen och ta så många klunkar som tärningen säger, tryck för att få fram en tärning",
@@ -204,6 +201,104 @@
         "p1, läs upp ditt senaste tindermeddelande utan kontext, har du inte tinder tar du klunkarLite",
         "p1, du kan nu byta ut ett namn som närsomhelst dras av ett kort mot en valfri person, men bara en gång",
         "Personen med längsta snap-streaken tar klunkarMycket",
+        "Personen med högsta snap-scoren tar klunkarMycket",
+        "Alla tar lika många klunkar som de har bokstäver i sitt namn",
+        "Personen med minst batteri kvar på mobilen tar klunkarMycket",
+        "Alla med Tinder nedladdat tar klunkarLite",
+        "p1 och p2, kör armbrytning där den som förlorar tar klunkarMycket, den som vinner delar ut klunkarMycket",
+        "Alla som inte har Drink Drop nedladdat tar klunkarMycket👀",
+
+        "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9?si=3575cef478514665",
+        "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF?si=50e8e29ab32f486a",
+        "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV?si=5ffb093f376e4d60",
+        "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo?si=e582e26b39cc4d81",
+        "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT?si=30ed2facaaed4557",
+        "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO?si=9d0fe9b9edc34727",
+        "https://open.spotify.com/track/34xGLuxM0rkxhCVyMSqwJO?si=3a0acb87a07f4943",
+        "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8?si=cc5afd4de1734d6f",
+        "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm?si=bfae3c5528754575",
+        "https://open.spotify.com/track/70LrxJ5u19umvrXbC19g20?si=8ad7518e56574588",
+
+        "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC?si=5ea26a5b9a1348b9",
+        "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV?si=8e5910e41f904e98",
+        "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y?si=bf2bd967caf848dc",
+        "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB?si=7069effb291a4b37",
+        "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D?si=cf13b8dca83a4b16",
+        "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc?si=3f35d380f8e746b1",
+        "https://open.spotify.com/track/7LMtp4HBhWLQ2P2POPn6li?si=36a9a9e62f034a20",
+        "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8?si=13c5e9903031499d",
+        "https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY?si=4e259dde4e93499f",
+        "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd?si=33ff0865436f4563",
+
+        "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy?si=8ec2593023f2481e",
+        "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1?si=24f3dfc986aa4e9c",
+        "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o?si=f04f44506d134fa8",
+        "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2?si=4f9d6ebab6ee4260",
+        "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc?si=90e5cf089450461d",
+        "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS?si=68c25d48e2b34e82",
+        "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe?si=42a06399966a4775",
+        "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5?si=355f4a8ba42342d3",
+        "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i?si=9d3bda35eba34c59",
+        
+        "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg?si=5e2bde744f4e497a",
+        "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i?si=cf267a10253b4785",
+        "https://open.spotify.com/track/1EqYoza9iMnxB9O0TwAeOO?si=dec738c6b1fc40d2",
+        "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8?si=07095e7205474969",
+        "https://open.spotify.com/track/3N9huFk2IceMSlKoZLaUsv?si=537f0597c9f94b86",
+        "https://open.spotify.com/track/6LXRvh3S8TB5P1PKy4lY1S?si=f16f1fe40e0d4978",
+        "https://open.spotify.com/track/58facAQuyUDml53CS4fOd3?si=0bf0ff6b64c94f80",
+        "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur?si=ffaff1dd52fb4e84",
+        "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW?si=a22afcf2f88b440b",
+
+        "https://open.spotify.com/track/5BjXWZl2JejuwhY6djkImJ?si=f1295afd4ac14f29",
+        "https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz?si=1b4f49487c244fd9",
+        "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t?si=3262d620d2cd4ffc",
+        "https://open.spotify.com/track/1hA5oGHUE1TLu5QCHPmz63?si=a9ec220310d24f03",
+        "https://open.spotify.com/track/68sFVD0NzRLOo7IX4RF9B3?si=60af6b6bb5f546b6",
+        "https://open.spotify.com/track/7FBiZyztaT8IWVcAwkkcWK?si=3a483d04a8e647b8",
+        "https://open.spotify.com/track/5RWMlD6s4i8fECJkDvdt7D?si=a07f4213e57d4714",
+        "https://open.spotify.com/track/1qIAqSCPcRkkNU8dj5pIOC?si=40eb0263c5b6486b",
+        "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU?si=0ff66d08fec44e94",
+
+        "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji?si=5bf33460cfd64b8b",
+        "https://open.spotify.com/track/71CFZjdSm2WSh5S6TPd69A?si=b43fd40af6f2441a",
+        "https://open.spotify.com/track/0yVz6D9z7pH6IyiOtnwv5e?si=b5b21df29b57472e",
+        "https://open.spotify.com/track/6fZgEkoLO6wKBnuwwZ3OTJ?si=33a1794c54af4189",
+        "https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe?si=67f0079df4c544df",
+        "https://open.spotify.com/track/4VRLGNMTfymoYzD4dLAsNb?si=df957dee68bb44c3",
+        "https://open.spotify.com/track/77jVczOFXfbdugN4djsIqs?si=2261834d18e949be",
+        "https://open.spotify.com/track/5Ls1Ir6Vl5frICvnH4nVRH?si=20bf49e49edf4e77",
+        "https://open.spotify.com/track/6iqEd2PFZanx8qcynhfE9d?si=838675a825814d39",
+
+        "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp?si=af37efda34bc4155",
+        "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP?si=d1344cbd88b1467a",
+        "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8?si=2e36fbbff499474d",
+        "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds?si=d70c80a9bc0f42ff",
+        "https://open.spotify.com/track/73hiGuj0dxhA1YhmSJOcMF?si=002881ac3a0a453a",
+        "https://open.spotify.com/track/6mDcLPGVCmdhMN4gBzNb7s?si=0538366f864a41b7",
+        "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL?si=a1968fb5f7a74223",
+        "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3?si=719e639ebcc84912",
+        "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=88e08531e84e4d76",
+
+        "https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5?si=44925aea0b404c55",
+        "https://open.spotify.com/track/1aEU7mcRDTYBB4ASpqbjYE?si=feff00d1aa684df0",
+        "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30?si=fd905b66b14c4d77",
+        "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=f0cf575c76904846",
+        "https://open.spotify.com/track/3xkGJKpWrn1n6Bk2m84bJP?si=220cbfdc5cc646f0",
+        "https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA?si=ce3a1d6dd444483a",
+        "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG?si=d715f202037d4dc6",
+        "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2?si=f215ca3bdd754652",
+        "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG?si=61458defb2da459c",
+
+        "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ?si=c5af0b36ef84497c",
+        "https://open.spotify.com/track/44ZJ4hLD5onikKsVLQaILr?si=1e4f9d9f102d41ff",
+        "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y?si=266e6a5e35e44713",
+        "https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh?si=f9e956b4e9f54d5f",
+        "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8?si=0772919c2ca24779",
+        "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO?si=c35d02fb73694d1d",
+        "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h?si=5784d5defb5e4eb4",
+        "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo?si=bd44a1ac6c0b4b6f",
+        "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh?si=c1a0337f12204e39",
     ],
 
     "basicStudent":
@@ -221,6 +316,8 @@
         "Drack du något senaste rundan? Drick isåfall dubbla det igen",
 
         "Vattenfall! p1 är den första som får ge sig",
+        "Den eller de som dricker med högst alkoholprocent tar klunkarLite🥃",
+        "Den eller de som dricker med lägst alkoholprocent tar klunkarMycket🧃",
         "Fuck it, p1 tar klunkarLite för varje person i rummet🥰",
         "Alla tar klunkarMycket",
         "Alla tar klunkarLite klunkar förutom p1, du får ta klunkarMycket😈",
@@ -284,6 +381,7 @@
         "p1, klunka din drink, leken fortsätter inte före den är slut",
         "Första personen att dricka upp sin drink får dela ut 15 klunkar🏁",
         "De med mindre än halva drinken kvar klunkar resten🍻",
+        "p1 och p2, om det finns möjlighet tar ni varsin oöppnad burk och börjar dricka, försten att balansera burken får dela ut klunkarMycket"
     ],
 
     "jha":
