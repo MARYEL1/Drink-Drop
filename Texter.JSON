@@ -1,7 +1,7 @@
 {
     "senasteVersion":
     [
-        "2.7"
+        "2.8"
     ],
 
     "utgångenVersion":
@@ -11,13 +11,13 @@
 
     "event":
     [
-        "Jul",
-        "Den mysigaste tiden att... Bli radar?🤨"
+        "",
+        ""
     ],
 
     "safemode":
     [
-        "nej"
+        "ja"
     ],
 
     "kanRepeteras":
