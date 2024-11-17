@@ -164,6 +164,16 @@
         "p1, välj en person som ska göra en charad du ska gissa på 30 sekunder, har du fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
     ],
 
+    "basicOrd":
+    [
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet står på nästa kort",
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet står på nästa kort",
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet står på nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet står på nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet står på nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet står på nästa kort",
+    ],
+
     "basicSpotify":
     [
         "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9?si=3575cef478514665",
@@ -1117,13 +1127,13 @@
     "ord":
     [
         "testord1",
-        "testord2"
+        "testord2",
     ],
 
     "ordSnusk":
     [
         "testordsnusk1",
-        "testordsnusk2"
+        "testordsnusk2",
     ],
 
     "lekar":
