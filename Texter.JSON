@@ -1,23 +1,23 @@
 {
     "senasteVersion":
     [
-        "2.9"
+        "2.10"
     ],
 
     "utgångenVersion":
     [
-        "2.8"
+        "2.9"
     ],
 
     "event":
     [
-        "Fejden",
-        "TAGGA FEJDEN!!!"
+        "",
+        ""
     ],
 
     "safemode":
     [
-        "nej"
+        "ja"
     ],
 
     "kanRepeteras":
@@ -128,9 +128,9 @@
         "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
         "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
         "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, läs nästa quizfråga tyst och välj ut en person du tror kan svara.\n\nHar personen rätt får ni dela ut klunkarLite var, annars tar ni klunkarLite var",
-        "p1, läs nästa quizfråga tyst och välj ut en person du tror kan svara.\n\nHar personen rätt får ni dela ut klunkarLite var, annars tar ni klunkarLite var",
-        "p1, läs nästa quizfråga tyst och välj ut en person du tror kan svara.\n\nHar personen rätt får ni dela ut klunkarLite var, annars tar ni klunkarLite var",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
     ],
 
     "basicLyric":
@@ -1112,6 +1112,18 @@
         "Tantra",
         "Bilsex",
         "KK",
+    ],
+
+    "ord":
+    [
+        "testord1",
+        "testord2"
+    ],
+
+    "ordSnusk":
+    [
+        "testordsnusk1",
+        "testordsnusk2"
     ],
 
     "lekar":
