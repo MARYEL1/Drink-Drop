@@ -1,12 +1,12 @@
 {
     "senasteVersion":
     [
-        "2.9"
+        "2.11"
     ],
 
     "utgångenVersion":
     [
-        "2.8"
+        "2.9"
     ],
 
     "event":
@@ -52,6 +52,7 @@
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
         "Sten, sax, påse mellan p1 och p2 om klunkarLite, vinnaren kan utmana förloraren igen för att höja antalet klunkar med 1, den sista som förlorar tar alla klunkar",
         "p1 och p2, gör en high five med ögonen stängda, träffar ni delar ni ut klunkarMycket tillsammans annars tar ni klunkarLite var👏",
+        "p1, och p2, ni ska testa era reaktioner! Klicka för att gå vidare",
     ],
 
     "basicAktivitet":
@@ -64,19 +65,23 @@
         "p1, singla slant! blir det krona tar du klunkarLite, om det blir klave tar du klunkarMycket⁉️ Tryck för att få fram en slant",
         "Gå varvet runt och gissa högre/lägre, p1 börjar och den som har fel tar klunkarMycket, tryck för att få fram en kortlek",
         "Sten, sax, påse mellan p1 och p2 om klunkarLite, vinnaren kan utmana förloraren igen för att höja antalet klunkar med 1, den sista som förlorar tar alla klunkar",
+        "p1, utmana någon på sten, sax, påse. Vinnaren delar ut klunkarMycket",
         "Vattenfall! Men endast mellan p1 och p2, p1 bestämmer hur länge",
         "Vattenfall! p1 är den första som får ge sig",
         "p1 och p2, ha en stirrtävling. Förloraren tar klunkarMycket",
         "p1 och p2, gör en armkrok och ta klunkarMycket",
         "p1 och p2, kör armbrytning där den som förlorar tar klunkarMycket, den som vinner delar ut klunkarMycket",
+        "p1, utmana någon på armbrytning, den som förlorar tar klunkarLite, den som vinner delar ut klunkarLite",
         "p1 och p2, visa upp ett varsitt dans-move och namnge det. Resten röstar vem som är bäst, förloraren tar klunkarMycket",
         "p1, balansera något på näsan. Misslyckas du tar du klunkarLite",
+        "p1 och p2, ni ska testa era reaktioner! Klicka för att gå vidare",
+        "p1, utmana någon på ett reaktionstest! Klicka för att gå vidare",
     ],
 
     "basicAktivitetStraffExkluderat":
     [
         "p1 och p2, ställ er på ett ben och klunka med hakan uppåt så länge ni kan, vinnaren delar ut 10 klunkar🦵",
-        "p1 och p2, ta varsin oöppnad burk och börja drick, försten att balansera burken får dela ut klunkarMycket"
+        "p1 och p2, ta varsin oöppnad burk och börja drick, försten att balansera burken får dela ut klunkarMycket",
     ],
 
     "basicJHA":
@@ -118,22 +123,26 @@
 
     "basicQuiz":
     [
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
-        "p1, dags för quiz! Svarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, dags för quiz!\nSvarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, dags för quiz!\nSvarar du fel får du ta klunkarMycket, svarar du rätt får du dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, utmana någon på quiz!\nVinnaren får dela ut klunkarMycket🧐 Fråga och svar finns på nästa kort",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
+        "p1, läs en quizfråga tyst och välj en person du tror kan svaret.\n\nHar personen rätt delar ni ut klunkarLite var, annars tar ni klunkarLite var🧐 Fråga och svar finns på nästa kort",
     ],
 
     "basicLyric":
     [
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
-        "p1, finish the lyric! Kan du inte tar du klunkarMycket. Texten dras i nästa kort",
+        "p1, finish the lyric!\nKan du inte tar du klunkarMycket. Texten dras i nästa kort",
+        "p1, finish the lyric!\nKan du inte tar du klunkarMycket. Texten dras i nästa kort",
+        "p1, finish the lyric!\nKan du inte tar du klunkarMycket. Texten dras i nästa kort",
+        "p1, finish the lyric!\nKan du inte tar du klunkarMycket. Texten dras i nästa kort",
+        "p1, utmana någon på finish the lyric!\n\nVinnaren delar ut klunkarMycket. Texten dras i nästa kort",
+        "p1, utmana någon på finish the lyric!\n\nVinnaren delar ut klunkarMycket. Texten dras i nästa kort",
+        "p1, utmana någon på finish the lyric!\n\nVinnaren delar ut klunkarMycket. Texten dras i nästa kort",
+        "p1, utmana någon på finish the lyric!\n\nVinnaren delar ut klunkarMycket. Texten dras i nästa kort",
     ],
 
     "basicRygg":
@@ -142,7 +151,7 @@
         "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
         "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
         "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
-        "p1 och p2, sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
+        "p1, välj en person och sätt er rygg mot rygg, peka på den av er som kommande 5 påståenden stämmer in mest på, är ni inte överens tar ni klunkarLite, annars går dem till alla andra",
     ],
 
     "basicCharad":
@@ -150,9 +159,19 @@
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
         "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
-        "p1, du ska göra en charad som p2 ska gissa på 30 sekunder, har p2 fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, välj en person som ska göra en charad du ska gissa på 30 sekunder, har du fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, välj en person som ska göra en charad du ska gissa på 30 sekunder, har du fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+        "p1, välj en person som ska göra en charad du ska gissa på 30 sekunder, har du fel tar ni klunkarLite, annars tar alla andra klunkarLite, charaden dras av närsta kort",
+    ],
+
+    "basicOrd":
+    [
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet dras av nästa kort",
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet dras av nästa kort",
+        "p1, ska förklara med andra ord!\nAlla får gissa och den som tar det får dela ut klunkarMycket, om ingen klarar det på 30 sekunder tar p1 klunkarLite.\nOrdet dras av nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet dras av nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet dras av nästa kort",
+        "p1, ska förklara med andra ord!\np2 ska gissa, klarar ni det på 30 sekunder får ni dela ut klunkarMycket var, om inte tar ni klunkarLite.\nOrdet dras av nästa kort",
     ],
 
     "basicSpotify":
@@ -265,6 +284,7 @@
         "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
         "p1, avslöja en fördom du har om p2.\nStämmer det? Då delar ni båda ut klunkarLite",
         "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
+        "p1, välj en person som måste utföra din nästa utmaning\nDet gäller att dela ut, ta klunkar, spela quiz osv..",
         
         "Drack du något senaste rundan? Drick isåfall lika mycket igen",
         "p1, nästa gäng klunkar du får kan du ge bort till någon annan (Om du vill🤔)",
@@ -273,6 +293,7 @@
         "Alla med partner ska nu tilltalas med sin partners namn, den som säger fel eller svarar på sitt egna namn tar klunkarMycket, gäller i 10 rundor",
         "p1, avslöja en fördom du har om p2.\nStämmer det? Då delar ni båda ut klunkarLite",
         "p1, ditt namn kommer att vara mer förekommande i 10 rundor🤩",
+        "p1, välj en person som måste utföra din nästa utmaning\nDet gäller att dela ut, ta klunkar, spela quiz osv..",
 
         "Alla ska nu tilltalas med sina efternamn, den som nämner någons förnamn tar klunkarMycket, gäller i 10 rundor",
         "p1, ta en bild på p2 och sätt den som bakgrundsbild resten av kvällen",
@@ -1101,6 +1122,67 @@
         "Tantra",
         "Bilsex",
         "KK",
+    ],
+
+    "ord":
+    [
+        "Kaffekopp",
+        "Bibliotek",
+        "Paraply",
+        "Tandborste",
+        "Fotboll",
+        "Flygplan",
+        "Hammare",
+        "Kylskåp",
+        "Cykel",
+        "Telefon",
+        "Dator",
+        "Klocka",
+        "Bokhylla",
+        "Mikrovågsugn",
+        "Vattenflaska",
+        "Ljusstake",
+        "Blomkruka",
+        "Fjärrkontroll",
+        "Gitarr",
+        "Rulltrappa",
+        "Skrivbord",
+        "Skruvmejsel",
+        "Tangentbord",
+        "Ficklampa",
+        "Kudde",
+        "Ryggsäck",
+        "Vattenkokare",
+        "Dammsugare",
+        "Kaffebryggare",
+        "Vattenkran",
+        "Skrivmaskin",
+        "Vinöppnare",
+        "Soptunna",
+        "Brödrost",
+        "Hårtork",
+        "Spikmatta",
+        "Diskmaskin",
+        "Osthyvel",
+        "Strykjärn",
+        "Borrmaskin",
+        "Stekpanna",
+        "Duschmunstycke",
+        "Hårborste",
+        "Köksfläkt",
+        "Skrivbordslampa",
+    ],
+
+    "ordSnusk":
+    [
+        "Handbojor",
+        "Sexleksak",
+        "Latexdräkt",
+        "Kondom",
+        "Vibrator",
+        "Glidmedel",
+        "Ögonbindel",
+        "Sexgunga",
     ],
 
     "lekar":
